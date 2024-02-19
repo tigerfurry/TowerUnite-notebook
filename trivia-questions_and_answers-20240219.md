@@ -10,7 +10,7 @@
 - **Correct Answer:** Too Weird To Live, Too Rare To Die!
 - A Fever You Can't Sweat Out
 - Death Of A Bachelor
-- Vices & Virtues
+- Vices ô Virtues
 
 
 ### Q: "Ananas" is mostly used as the word for Pineapple in other languages.
@@ -90,6 +90,13 @@
 ### Q: "Green Eggs and Ham" consists of only 50 different words.
 - **Correct Answer:** True
 - False
+
+
+### Q: "Green Eggs And Ham" is a book by which author?
+- **Correct Answer:** Dr. Seuss
+- Beatrix Potter
+- Roald Dahl
+- A.A. Milne
 
 
 ### Q: "Half-Life 2" runs on the Source Engine.
@@ -266,13 +273,6 @@
 - American Pie
 
 
-### Q: "The Genius" is the original and secondary name of which Wu-Tang Clan member?
-- **Correct Answer:** GZA
-- Ghostface Killah
-- Ol' Dirty Bastard
-- Raekwon the Chef
-
-
 ### Q: "The Potato Sack" was a collection of indie games released on Steam in 2011 as a promotion for which game?
 - **Correct Answer:** Portal 2
 - Left 4 Dead 2
@@ -326,7 +326,7 @@
 - Al Gore
 
 
-### Q: '74–'75 is a 1993 single from the album Ring by what American band?
+### Q: '74ôndash;'75 is a 1993 single from the album Ring by what American band?
 - **Correct Answer:** The Connells
 - R.E.M.
 - The Ocean Blue
@@ -377,13 +377,6 @@
 ### Q: A Boolean value of "0" represents which of these words?
 - **Correct Answer:** False
 - True
-
-
-### Q: A Caixa Malacacheta is what kind of musical instrument which is commonly used in Latin American music?
-- **Correct Answer:** Snare Drum
-- Cow Bell
-- Bass Drum
-- Maraca
 
 
 ### Q: A carnivorous animal eats flesh, what does a nucivorous animal eat?
@@ -444,11 +437,6 @@
 - True
 
 
-### Q: A person can get sunburned on a cloudy day.
-- **Correct Answer:** True
-- False
-
-
 ### Q: A plant that has a life cycle for more than a year is known as an annual.
 - **Correct Answer:** False
 - True
@@ -476,7 +464,7 @@
 - True
 
 
-### Q: A slug's blood is green.
+### Q: A slugôrsquo;s blood is green.
 - **Correct Answer:** True
 - False
 
@@ -613,7 +601,7 @@
 - **Correct Answer:** 5%
 - 1%
 - 3%
-- <1%
+- ôlt;1%
 
 
 ### Q: According to Sherlock Holmes, "If you eliminate the impossible, whatever remains, however improbable, must be the..."
@@ -763,13 +751,6 @@
 - True
 
 
-### Q: African-American performer Sammy Davis Jr. was known for losing which part of his body in a car accident?
-- **Correct Answer:** Left Eye
-- Right Ear
-- Right Middle Finger
-- Nose
-
-
 ### Q: After England, more Shakespeare plays are set in this present day country than in any other.
 - **Correct Answer:** Italy
 - United States
@@ -826,13 +807,6 @@
 - Apprentice
 
 
-### Q: Alan Reed is known for providing the voice of which character?
-- **Correct Answer:** Fred Flintstone
-- Bugs Bunny
-- Fangface
-- G.I. Joe
-
-
 ### Q: Alaska is the largest state in the United States.
 - **Correct Answer:** True
 - False
@@ -843,8 +817,8 @@
 - True
 
 
-### Q: Albrecht Dürer's birthplace and place of death were in...
-- **Correct Answer:** Nürnberg
+### Q: Albrecht Dôuuml;rer's birthplace and place of death were in...
+- **Correct Answer:** Nôuuml;rnberg
 - Augsburg
 - Bamberg
 - Berlin
@@ -996,7 +970,7 @@
 - False
 
 
-### Q: An equilateral triangle always has every angle measuring 60°.
+### Q: An equilateral triangle always has every angle measuring 60ôdeg;.
 - **Correct Answer:** True
 - False
 
@@ -1071,13 +1045,6 @@
 - Stomach
 
 
-### Q: Approximately how long is a year on Uranus?
-- **Correct Answer:** 84 Earth years
-- 47 Earth years
-- 62 Earth years
-- 109 Earth years
-
-
 ### Q: Approximately how many Apple I personal computers were created?
 - **Correct Answer:** 200
 - 100
@@ -1134,10 +1101,10 @@
 
 
 ### Q: At what temperature does water boil?
-- **Correct Answer:** 212°F
-- 200°F
-- 181°F
-- 178°F
+- **Correct Answer:** 212ôdeg;F
+- 200ôdeg;F
+- 181ôdeg;F
+- 178ôdeg;F
 
 
 ### Q: At which bridge does the annual Oxford and Cambridge boat race start?
@@ -1288,7 +1255,7 @@
 - Iraq and Saudi Arabia
 
 
-### Q: Björk's "Unison" contains a sample of which Oval song?
+### Q: Bjôouml;rk's "Unison" contains a sample of which Oval song?
 - **Correct Answer:** Aero Deck
 - Textuell
 - Panorama
@@ -1358,7 +1325,7 @@
 ### Q: Bridgetown is the capital of which island country in the Carribean?
 - **Correct Answer:** Barbados
 - Cuba
-- Jamaica 
+- Jamaicaôlrm;
 - Dominica
 
 
@@ -1431,7 +1398,7 @@
 ### Q: By what nickname is Jack Dawkins known in the Charles Dickens novel, 'Oliver Twist'?
 - **Correct Answer:** The Artful Dodger
 - Fagin
-- Bull's-eye
+- Bullôrsquo;s-eye
 - Mr. Fang
 
 
@@ -1898,7 +1865,7 @@
 
 ### Q: Electronic artists Boys Noize and Skrillex have collaborated and released tracks under what name?
 - **Correct Answer:** Dog Blood
-- Jack Ü
+- Jack ôUuml;
 - What So Not
 - Noisia
 
@@ -1980,6 +1947,13 @@
 - Final Fantasy VI
 - Final Fantasy V
 - Final Fantasy II
+
+
+### Q: Finish these lyrics from the 2016 song "Panda" by Desiigner: "I got broads in _______".
+- **Correct Answer:** Atlanta
+- Savannah
+- Augusta
+- Marietta
 
 
 ### Q: Finnish Lapphund dogs were used for herding reindeer.
@@ -2146,11 +2120,6 @@
 - Czech Republic
 
 
-### Q: Furby was released in 1998.
-- **Correct Answer:** True
-- False
-
-
 ### Q: Gabe Newell was born in which year?
 - **Correct Answer:** 1962 
 - 1970
@@ -2163,13 +2132,6 @@
 - Uranus
 - Neptune
 - Mars
-
-
-### Q: Generally, which component of a computer draws the most power?
-- **Correct Answer:** Video Card
-- Hard Drive
-- Processor
-- Power Supply
 
 
 ### Q: George Clinton, Vice President of the United States (1805-1812), is an ancestor of President Bill Clinton.
@@ -2213,11 +2175,6 @@
 - Sub Sandwich
 - Chicken Soup
 - Pepperoni Pizza
-
-
-### Q: Gordon Freeman, the protagonist of "Half-Life", is said to have once had a ponytail.
-- **Correct Answer:** True
-- False
 
 
 ### Q: Gosho Aoyama Made This Series: (Detective Conan / Case Closed!)
@@ -2490,13 +2447,6 @@
 - 24
 
 
-### Q: How many classes are there in Team Fortress 2?
-- **Correct Answer:** 9
-- 10
-- 8
-- 7
-
-
 ### Q: How many colors are there in a rainbow?
 - **Correct Answer:** 7
 - 8
@@ -2588,13 +2538,6 @@
 - 5
 
 
-### Q: How many degrees Fahrenheit is 100 degrees Celsius? 
-- **Correct Answer:** 212
-- 326
-- 100
-- 451
-
-
 ### Q: How many dice are used in the game of Yahtzee?
 - **Correct Answer:** Five
 - Four
@@ -2644,7 +2587,7 @@
 - 3
 
 
-### Q: How many French Open's did Björn Borg win?
+### Q: How many French Open's did Bjôouml;rn Borg win?
 - **Correct Answer:** 6
 - 4
 - 9
@@ -2749,7 +2692,7 @@
 - Five
 
 
-### Q: How many members are there in the idol group "µ's"?
+### Q: How many members are there in the idol group "ômicro;'s"?
 - **Correct Answer:** 9
 - 48
 - 6
@@ -3050,13 +2993,6 @@
 - 8
 
 
-### Q: How many studio albums have the duo Daft Punk released?
-- **Correct Answer:** 4
-- 1
-- 5
-- 2
-
-
 ### Q: How many studio albums have the heavy metal band, 'Metallica' released in the period between 1983 and 2016?
 - **Correct Answer:** 10
 - 7
@@ -3118,13 +3054,6 @@
 - 6
 - 24
 - 16
-
-
-### Q: How many total monsters appear in Monster Hunter Generations?
-- **Correct Answer:** 105
-- 100
-- 98
-- 73
 
 
 ### Q: How many trophies are there in "Super Smash Bros. for Nintendo 3DS"?
@@ -3303,10 +3232,10 @@
 
 
 ### Q: How tall is Tom Cruise?
-- **Correct Answer:** 5' 7"
-- 5' 9"
-- 5' 4"
-- 5' 5"
+- **Correct Answer:** 5ôprime; 7ôPrime;
+- 5ôprime; 9ôPrime;
+- 5ôprime; 4ôPrime;
+- 5ôprime; 5ôPrime;
 
 
 ### Q: How was Socrates executed?
@@ -3317,7 +3246,7 @@
 
 
 ### Q: How would one say goodbye in Spanish?
-- **Correct Answer:** Adió;s
+- **Correct Answer:** Adiôoacute;s
 -  Hola
 - Au Revoir
 - Salir
@@ -3863,16 +3792,16 @@
 - Arcane + Life
 
 
-### Q: In "Mario & Sonic at the Olympic Games", characters are split into how many types?
+### Q: In "Mario Kart 64", Waluigi is a playable character.
+- **Correct Answer:** False
+- True
+
+
+### Q: In "Mario ô Sonic at the Olympic Games", characters are split into how many types?
 - **Correct Answer:** 4
 - 6
 - 5
 - 3
-
-
-### Q: In "Mario Kart 64", Waluigi is a playable character.
-- **Correct Answer:** False
-- True
 
 
 ### Q: In "Minecraft", gold tools are faster than diamond tools.
@@ -3888,10 +3817,10 @@
 
 
 ### Q: In "Need for Speed III: Hot Pursuit", what is the name of the fictional car?
-- **Correct Answer:** El Niño
-- Rápido
-- Ágil
-- La Niña
+- **Correct Answer:** El Niôntilde;o
+- Rôaacute;pido
+- ôAacute;gil
+- La Niôntilde;a
 
 
 ### Q: In "Need for Speed: Porsche Unleashed", the player can only drive cars manufactured by Porsche.
@@ -4292,13 +4221,6 @@
 - False
 
 
-### Q: In "The Witness", how many lasers must be activated to get into the mountain area?
-- **Correct Answer:** 7
-- 8
-- 5
-- 12
-
-
 ### Q: In "To Love-Ru", Ren and Run are from what planet?
 - **Correct Answer:** Memorze
 - Deviluke
@@ -4438,7 +4360,7 @@
 
 ### Q: In 2008, British celebrity chef Gordon Ramsay believes he almost died after suffering what accident in Iceland while filming?
 - **Correct Answer:** Slipping off a cliff, and nearly drowning in icy water
-- Crash landing when arriving at Keflavík airport
+- Crash landing when arriving at Keflavôiacute;k airport
 - A minor car accident in a snowstorm
 - Being served under-cooked chicken at his hotel
 
@@ -4479,13 +4401,6 @@
 - Papa John's
 - Pizza Hut
 - Sabarro's
-
-
-### Q: In 2014, over 6 million General Motors vehicles were recalled due to what critical flaw?
-- **Correct Answer:** Faulty ignition switch
-- Malfunctioning gas pedal
-- Breaking fuel lines
-- Faulty brake pads
 
 
 ### Q: In 2014, this new top 100 rapper who featured in "Computers" and "Body Dance" was arrested in a NYPD sting for murder.
@@ -4634,13 +4549,6 @@
 - True
 
 
-### Q: In August 1964, who introduced the Beatles to cannabis?
-- **Correct Answer:** Bob Dylan
-- Jim Morrison
-- Brian Epstein
-- Jerry Garcia
-
-
 ### Q: In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?
 - **Correct Answer:** October 21, 2015
 - August 28, 2015
@@ -4745,10 +4653,10 @@
 
 
 ### Q: In Call of Duty: United Offensive, what two soldiers share a name of a video game character?
-- **Correct Answer:** Gordon & Freeman
-- Sam & Fisher
-- Nathan & Drake
-- Dig & Dug
+- **Correct Answer:** Gordon ô Freeman
+- Sam ô Fisher
+- Nathan ô Drake
+- Dig ô Dug
 
 
 ### Q: In Calvin and Hobbes, what is the name of Susie's stuffed rabbit?
@@ -4964,13 +4872,6 @@
 - Do nothing
 
 
-### Q: In flight systems, what does the initialism "TCAS" stand for?
-- **Correct Answer:** Traffic Collision Avoidance System
-- Traffic Communication Alert System
-- Traffic Configuration Alignment System
-- Traffic Call-sign Abbreviation System
-
-
 ### Q: In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?
 - **Correct Answer:** Jules Bianchi
 - Ayrton Senna
@@ -5097,10 +4998,10 @@
 
 
 ### Q: In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?
-- **Correct Answer:** <marquee></marquee>
-- <scroll></scroll>
-- <move></move>
-- <slide></slide>
+- **Correct Answer:** ôlt;marqueeôgt;ôlt;/marqueeôgt;
+- ôlt;scrollôgt;ôlt;/scrollôgt;
+- ôlt;moveôgt;ôlt;/moveôgt;
+- ôlt;slideôgt;ôlt;/slideôgt;
 
 
 ### Q: In human biology, a circadium rhythm relates to a period of roughly how many hours?
@@ -5181,13 +5082,6 @@
 - The Tank
 - The Smoker
 - The Spitter
-
-
-### Q: In Left 4 Dead, what is the name of the virus, as designated by CEDA, that causes most humans to turn into the Infected?
-- **Correct Answer:** Green Flu
-- Yellow Fever
-- T-Virus
-- Raspberry Sniffles
 
 
 ### Q: In Left 4 Dead, which campaign has the protagonists going through a subway in order to reach a hospital for evacuation?
@@ -5408,11 +5302,11 @@
 - 62
 
 
-### Q: In Overwatch, what is Lúcio's full name?
-- **Correct Answer:** Lúcio Correia Dos Santos
-- Lúcio Luiz Ló;s Guilherme
-- Lúcio João Lucas
-- Lúcio Chupar Prima
+### Q: In Overwatch, what is Lôuacute;cio's full name?
+- **Correct Answer:** Lôuacute;cio Correia Dos Santos
+- Lôuacute;cio Luiz Lôoacute;s Guilherme
+- Lôuacute;cio Joôatilde;o Lucas
+- Lôuacute;cio Chupar Prima
 
 
 ### Q: In past times, what would a gentleman keep in his fob pocket?
@@ -5436,7 +5330,7 @@
 - Wayward Cave
 
 
-### Q: In Pokemon Red & Blue, what is the name of HM05?
+### Q: In Pokemon Red ô Blue, what is the name of HM05?
 - **Correct Answer:** Flash
 - Strength
 - Cut
@@ -5450,7 +5344,7 @@
 - Silvally 
 
 
-### Q: In Pokémon Chronicles, why was Misty afraid of Gyarados?
+### Q: In PokÉmon Chronicles, why was Misty afraid of Gyarados?
 - **Correct Answer:** She crawled into it's mouth as a baby.
 - She found it scary.
 - She was badly injured from it.
@@ -5538,6 +5432,13 @@
 - Pack Leader
 
 
+### Q: In PROTOTYPE 2. who is referred to as "Tango Primary"?
+- **Correct Answer:** James Heller
+- Alex Mercer
+- Dana Mercer
+- Any Goliaths roaming around
+
+
 ### Q: In Psychology, which need appears highest in the "Maslow's hierarchy of needs" pyramid?
 - **Correct Answer:** Esteem
 - Love
@@ -5557,11 +5458,6 @@
 - Irish Rebel Alliance
 - Irish Reformation Army
 - Irish-Royal Alliance
-
-
-### Q: In Resident Evil 4, the Chicago Typewriter has infinite ammo.
-- **Correct Answer:** True
-- False
 
 
 ### Q: In Riot Games "League of Legends" the name of Halloween event is called "The Reckoning".
@@ -5605,7 +5501,7 @@
 - 5
 
 
-### Q: In Scandinavian languages, the letter Å means river.
+### Q: In Scandinavian languages, the letter ôAring; means river.
 - **Correct Answer:** True
 - False
 
@@ -5658,10 +5554,10 @@
 
 
 ### Q: In Splatoon 2, who are the members of Off The Hook?
-- **Correct Answer:** Pearl & Marina
-- Callie & Marie
-- Diamond & Aquamarina
-- DJ Octavio & Crusty Sean
+- **Correct Answer:** Pearl ô Marina
+- Callie ô Marie
+- Diamond ô Aquamarina
+- DJ Octavio ô Crusty Sean
 
 
 ### Q: In Splatoon, the Squid Sisters are named Tako and Yaki.
@@ -5866,11 +5762,6 @@
 - Gohan
 - Vegeta
 - Bardock
-
-
-### Q: In the "Half-Life" series, "H.E.V" stands for "Hazardous Evasiveness Vest"
-- **Correct Answer:** False
-- True
 
 
 ### Q: In the "Halo" franchise, in what country is New Mombasa?
@@ -6083,7 +5974,7 @@
 - Tab him
 
 
-### Q: In the 1971 film "Willy Wonka & the Chocolate Factory", who played Willy Wonka?
+### Q: In the 1971 film "Willy Wonka ô the Chocolate Factory", who played Willy Wonka?
 - **Correct Answer:** Gene Wilder
 - Shia LeBouf
 - Peter Ostrum
@@ -6091,10 +5982,10 @@
 
 
 ### Q: In the 1974 Christmas flick "The Year Without a Santa Claus," what are the names of the two elves who help Mrs. Claus save Christmas?
-- **Correct Answer:** Jingle & Jangle
-- Buddy & Bobby
-- Holly & Jolly
-- Snowflake & Icicle
+- **Correct Answer:** Jingle ô Jangle
+- Buddy ô Bobby
+- Holly ô Jolly
+- Snowflake ô Icicle
 
 
 ### Q: In the 1976 film 'Taxi Driver', how many guns did Travis buy from the salesman?
@@ -6208,10 +6099,10 @@
 
 
 ### Q: In the 2012 animated film "Wolf Children", what are the names of the wolf children?
-- **Correct Answer:** Ame & Yuki
-- Hana & Yuki
-- Ame & Hana
-- Chuck & Anna
+- **Correct Answer:** Ame ô Yuki
+- Hana ô Yuki
+- Ame ô Hana
+- Chuck ô Anna
 
 
 ### Q: In the 2012 film, "The Lorax", who is the antagonist?
@@ -6275,13 +6166,6 @@
 - Sub-Zero
 - Sektor
 - Shang Tsung
-
-
-### Q: In the Animal Crossing series, which flower is erroneously called the "Jacob's Ladder"?
-- **Correct Answer:** Lily of the Valley
-- Hydrangea
-- Harebell
-- Yarrow
 
 
 ### Q: In the animated series RWBY, what is the name of the weapon used by Weiss Schnee?
@@ -6372,7 +6256,7 @@
 - **Correct Answer:** Subject 17
 - Subject 16
 - Subject 18
-- Altaïr Ibn-La'Ahad
+- Altaôiuml;r Ibn-La'Ahad
 
 
 ### Q: In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?
@@ -6394,13 +6278,6 @@
 - Red
 - Green
 - Blue
-
-
-### Q: In the beta version of the 1986 game "The Legend of Zelda", players have the choice between a sword and what other item?
-- **Correct Answer:** Boomerang 
-- Spear
-- Slingshot
-- Crossbow
 
 
 ### Q: In the Board Game, Settlers of Catan, a die roll of what number causes the Robber to attack? 
@@ -6555,7 +6432,7 @@
 - 1959
 
 
-### Q: In the game "Brawlhalla", what species is the character Bödvar is?
+### Q: In the game "Brawlhalla", what species is the character Bôouml;dvar is?
 - **Correct Answer:** Half Human / Half Bear
 - A Human
 - Half Wolf / Half Bear
@@ -6669,13 +6546,6 @@
 - Steve Blum
 - Richard Epcar
 - Yuri Lowenthal
-
-
-### Q: In the game Call of Duty, what is the last level where you play as an American soldier?
-- **Correct Answer:** Festung Recogne
-- Ste. Mere-Eglise (Day)
-- Chateau
-- Brecourt
 
 
 ### Q: In the game Danganronpa: Happy Trigger Havoc, the character Aoi Asahina's ultimate ability is what?
@@ -7052,6 +6922,13 @@
 - Meatballs
 
 
+### Q: In the movie "The Iron Giant," this character is the protagonist.
+- **Correct Answer:** Hogarth Hughes
+- Kent Mansley
+- Dean McCoppin
+- Annie Hughes
+
+
 ### Q: In the movie "V for Vendetta," what is the date that masked vigilante "V" urges people to remember?
 - **Correct Answer:** November 5th
 - November 6th
@@ -7069,13 +6946,6 @@
 ### Q: In the movie The Revenant, DiCaprio's character hunts down the killer of his son.
 - **Correct Answer:** True
 - False
-
-
-### Q: In the movie"The Iron Giant," this character is the protagonist.
-- **Correct Answer:** Hogarth Hughes
-- Kent Mansley
-- Dean McCoppin
-- Annie Hughes
 
 
 ### Q: In the Naruto manga, what is the last name of Tsunade?
@@ -7110,7 +6980,7 @@
 - **Correct Answer:** DJ_Hyperfresh
 - MC.princess
 - Kidnotsquid123
-- I<30ffTh3H00k
+- Iôlt;30ffTh3H00k
 
 
 ### Q: In the novel "Lord of the Rings", how many rings of power were given to the race of man?
@@ -7139,13 +7009,6 @@
 - 10 Meters
 - 2 Meters
 - 5 Meters
-
-
-### Q: In the original DOOM (1993) which of the following is NOT a cheat code?
-- **Correct Answer:** IDCLIP
-- IDFA
-- IDDQD
-- IDSPISPOPD
 
 
 ### Q: In the original DOOM games, which of the following demons is a recolor of the Baron of Hell, but is weaker than the Baron?
@@ -7347,7 +7210,7 @@
 ### Q: In the show "Futurama" what is Fry's full name?
 - **Correct Answer:** Philip J. Fry
 - Fry J. Philip
-- Fry Rodríguez
+- Fry Rodrôiacute;guez
 - Fry Philip
 
 
@@ -7400,7 +7263,7 @@
 - Cold War
 
 
-### Q: In the song"The Ultimate Showdown of Ultimate Destiny," who is the only one to survive the battle?
+### Q: In the song "The Ultimate Showdown of Ultimate Destiny," who is the only one to survive the battle?
 - **Correct Answer:** Mr. Rogers
 - Batman
 - Chuck Norris
@@ -7450,9 +7313,9 @@
 
 
 ### Q: In the television show "Lazy Town", who is the actor of Robbie Rotten?
-- **Correct Answer:** Stefán Stefánsson
+- **Correct Answer:** Stefôaacute;n Stefôaacute;nsson
 - Adam Sandler
-- Magnús Scheving
+- Magnôuacute;s Scheving
 - Stephen Carl
 
 
@@ -7909,13 +7772,6 @@
 - 2020
 
 
-### Q: In what year was "Antichamber" released?
-- **Correct Answer:** 2013
-- 2012
-- 2014
-- 2011
-
-
 ### Q: In what year was "Metal Gear Solid" released in North America?
 - **Correct Answer:** 1998
 - 1987
@@ -7951,7 +7807,7 @@
 - 1947
 
 
-### Q: In what year was Pokémon Diamond & Pearl released in Japan?
+### Q: In what year was Pokémon Diamond ô Pearl released in Japan?
 - **Correct Answer:** 2006
 - 2009
 - 2007
@@ -8211,7 +8067,7 @@
 
 
 ### Q: In which manga did the "404 Girl" from 4chan originate from?
-- **Correct Answer:** Yotsuba&!
+- **Correct Answer:** Yotsubaô!
 - Azumanga Daioh
 - Lucky Star
 - Clover
@@ -8483,7 +8339,7 @@
 - **Correct Answer:** The Balmoral
 - The Dunstane Hotel
 - Hotel Novotel
-- Sheraton Grand Hotel & Spa
+- Sheraton Grand Hotel ô Spa
 
 
 ### Q: Jaguar Cars was previously owned by which car manfacturer?
@@ -8669,7 +8525,7 @@
 - False
 
 
-### Q: L'Hôpital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.
+### Q: L'Hôocirc;pital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.
 - **Correct Answer:** False
 - True
 
@@ -8736,6 +8592,11 @@
 - Inception
 
 
+### Q: Leonardo DiCaprio won an Oscar for Best Actor in 2004's "The Aviator".
+- **Correct Answer:** False
+- True
+
+
 ### Q: Liam Howlett founded which electronic music group in 1990?
 - **Correct Answer:** The Prodigy
 - The Chemical Brothers
@@ -8785,13 +8646,6 @@
 - Median, Achaemenid, Sassanid, Parthian
 - Achaemenid, Median, Parthian, Sassanid
 - Achaemenid, Median, Sassanid, Parthian
-
-
-### Q: Llanfair pwllgwyngyll gogery chwyrn drobwll llan tysilio gogo goch is located on which Welsh island?
-- **Correct Answer:** Anglesey
-- Barry
-- Bardsey
-- Caldey
 
 
 ### Q: Located in Chile, El Teniente is the world's largest underground mine for what metal?
@@ -8878,7 +8732,7 @@
 - True
 
 
-### Q: Michael Jackson had a pet python named ‘Crusher'.
+### Q: Michael Jackson had a pet python named ôlsquo;Crusherôrsquo;.
 - **Correct Answer:** True
 - False
 
@@ -8898,7 +8752,7 @@
 - False
 
 
-### Q: Minecraft wasn't the original name to Minecraft.
+### Q: Minecraft wasnôrsquo;t the original name to Minecraft.
 - **Correct Answer:** True
 - False
 
@@ -9502,10 +9356,10 @@
 
 
 ### Q: Psych-Horror "Eternal Darkness: Sanity's Requiem", developed by Silicon Knights in 2002, was published by who and on what platform?
-- **Correct Answer:** Nintendo® Co. Ltd. | GameCube™
-- Sony® Computer Entertainment™ Inc. | PlayStation® 2
-- Microsoft® Game Studios™ | XBox™
-- Sega® Enterprises Co. Ltd. | Dreamcast™
+- **Correct Answer:** Nintendoôreg; Co. Ltd. | GameCubeôtrade;
+- Sonyôreg; Computer Entertainmentôtrade; Inc. | PlayStationôreg; 2
+- Microsoftôreg; Game Studiosôtrade; | XBoxôtrade;
+- Segaôreg; Enterprises Co. Ltd. | Dreamcastôtrade;
 
 
 ### Q: Psychology is the science of behavior and mind.
@@ -9584,6 +9438,13 @@
 - 1985
 - 1986
 - 1988
+
+
+### Q: Rincewind from the 1995 Discworld game was voiced by which member of Monty Python?
+- **Correct Answer:** Eric Idle
+- John Cleese
+- Terry Gilliam
+- Michael Palin
 
 
 ### Q: Ringo Starr of The Beatles mainly played what instrument?
@@ -9792,7 +9653,7 @@
 ### Q: Spain was formed in 1469 with the marriage of Isabella I of Castile and Ferdinand II of what other Iberian kingdom?
 - **Correct Answer:** Aragon
 - Galicia
-- Leó;n
+- Leôoacute;n
 - Navarre
 
 
@@ -9867,8 +9728,8 @@
 
 ### Q: Terry Gilliam was an animator that worked with which British comedy group?
 - **Correct Answer:** Monty Python
-- The Goodies 
-- The League of Gentlemen 
+- The Goodiesôlrm;
+- The League of Gentlemenôlrm;
 - The Penny Dreadfuls
 
 
@@ -9916,6 +9777,20 @@
 - World War I
 - Vietnam War
 - Iraq War
+
+
+### Q: The "fairy" type made itôrsquo;s debut in which generation of the Pokemon core series games?
+- **Correct Answer:** 6th
+- 2nd
+- 7th
+- 4th
+
+
+### Q: The "fairy" type made itôrsquo;s debut in which generation of the Pokemon core series games?
+- **Correct Answer:** 6th
+- 2nd
+- 7th
+- 4th
 
 
 ### Q: The "Gympie Stinger" is the deadliest plant in the world.
@@ -10041,11 +9916,6 @@
 - True
 
 
-### Q: The 2011 movie "The Adventures of Tintin" was directed by Steven Spielberg.
-- **Correct Answer:** True
-- False
-
-
 ### Q: The 2014 movie "The Raid 2: Berandal" was mainly filmed in which Asian country?
 - **Correct Answer:** Indonesia
 - Thailand
@@ -10072,7 +9942,7 @@
 - True
 
 
-### Q: The Ace Attorney trilogy was suppose to end with "Phoenix Wright: Ace Attorney − Trials and Tribulations" as its final game.
+### Q: The Ace Attorney trilogy was suppose to end with "Phoenix Wright: Ace Attorney ôminus; Trials and Tribulations" as its final game.
 - **Correct Answer:** True
 - False
 
@@ -10108,7 +9978,7 @@
 - False
 
 
-### Q: The ancient city of Chichén Itzá was built by which civilization?
+### Q: The ancient city of Chichén Itzôaacute; was built by which civilization?
 - **Correct Answer:** Mayans
 - Aztecs
 - Incas
@@ -10161,13 +10031,6 @@
 - Neoclassical
 - Baroque
 - Gothic Revival
-
-
-### Q: The asteroid belt is located between which two planets?
-- **Correct Answer:** Mars and Jupiter
-- Jupiter and Saturn
-- Mercury and Venus
-- Earth and Mars
 
 
 ### Q: The average lifespan of a wildcat is only around 5-6 years. 
@@ -10301,11 +10164,6 @@
 - F. Scott Fitzgerald
 
 
-### Q: The book 1984 was published in 1949.
-- **Correct Answer:** True
-- False
-
-
 ### Q: The Bracken from Lethal Company is also known as:
 - **Correct Answer:** The Flower Man
 - The Phantom
@@ -10368,7 +10226,7 @@
 
 ### Q: The character Plum from "No Game No Life" is of what race?
 - **Correct Answer:** Dhampir
-- Flügel
+- Flôuuml;gel
 - Imanity
 - Seiren
 
@@ -10414,13 +10272,6 @@
 - True
 
 
-### Q: The collapse of the Soviet Union took place in which year?
-- **Correct Answer:** 1991
-- 1992
-- 1891
-- 1990
-
-
 ### Q: The color of the pills in the Matrix were Blue and Yellow.
 - **Correct Answer:** False
 - True
@@ -10454,13 +10305,13 @@
 
 
 ### Q: The core of the Sun can reach which temperature?
-- **Correct Answer:** 27° Million F (15° Million C)
-- 938,000° F (521093.3° C)
-- 8° Billion F (°4.4 Billion C)
+- **Correct Answer:** 27ôdeg; Million F (15ôdeg; Million C)
+- 938,000ôdeg; F (521093.3ôdeg; C)
+- 8ôdeg; Billion F (ôdeg;4.4 Billion C)
 - Absolute Zero (Both F and C)
 
 
-### Q: The country song "A Boy Named Sue" was written by Shel Silverstein.
+### Q: The country song  "A Boy Named Sue" was written by Shel Silverstein.
 - **Correct Answer:** True
 - False
 
@@ -10553,8 +10404,8 @@
 
 
 ### Q: The drug cartel run by Pablo Escobar originated in which South American city?
-- **Correct Answer:** Medellín
-- Bogotá
+- **Correct Answer:** Medellôiacute;n
+- Bogotôaacute;
 - Quito
 - Cali
 
@@ -10685,10 +10536,10 @@
 - **Correct Answer:** Murcia
 - Asturias
 - Navarre
-- Leó;n
+- Leôoacute;n
 
 
-### Q: The formerly East-Prussian city of Königsberg is known as which Russian City today?
+### Q: The formerly East-Prussian city of Kôouml;nigsberg is known as which Russian City today?
 - **Correct Answer:** Kaliningrad
 - Kazan
 - Kursk
@@ -10793,13 +10644,6 @@
 - False
 
 
-### Q: The Harvard architecture for micro-controllers added which additional bus?
-- **Correct Answer:** Instruction
-- Address
-- Data
-- Control
-
-
 ### Q: The HBO series "Game of Thrones" is based on which series of books?
 - **Correct Answer:** A Song of Ice and Fire
 - The Wheel of Time
@@ -10866,6 +10710,11 @@
 - Knee
 - Sholder
 - Ankle
+
+
+### Q: The Hundred Years' War was fought for more than a hundred years.
+- **Correct Answer:** True
+- False
 
 
 ### Q: The Hunua Ranges is located in...
@@ -11057,13 +10906,6 @@
 - Seattle
 
 
-### Q: The LS1 engine is how many cubic inches?
-- **Correct Answer:** 346
-- 350
-- 355
-- 360
-
-
 ### Q: The LS2 engine is how many cubic inches?
 - **Correct Answer:** 364
 - 346
@@ -11223,7 +11065,7 @@
 ### Q: The minigun was designed in 1960 by which manufacturer.
 - **Correct Answer:** General Electric
 - Colt Firearms
-- Heckler & Koch
+- Heckler ô Koch
 - Sig Sauer
 
 
@@ -11350,7 +11192,7 @@
 - Fumihiko Maki
 
 
-### Q: The New York Times slogan is,"All the News That's Fit to…"
+### Q: The New York Times slogan is, "All the News Thatôrsquo;s Fit toôhellip;"
 - **Correct Answer:** Print
 - Digest
 - Look
@@ -11365,10 +11207,10 @@
 
 
 ### Q: The Norse god Odin has two pet crows named "Huginn" and "Muninn".  What do their names mean?
-- **Correct Answer:** Thought & Memory
-- Power & Peace
-- War & Learning
-- Sleeping & Waking
+- **Correct Answer:** Thought ô Memory
+- Power ô Peace
+- War ô Learning
+- Sleeping ô Waking
 
 
 ### Q: The notion of a "set that contains all sets which do not contain themselves" is a paradoxical idea attributed to which English philospher?
@@ -11379,8 +11221,8 @@
 
 
 ### Q: The novel "Jane Eyre" was written by what author? 
-- **Correct Answer:** Charlotte Brontë
-- Emily Brontë
+- **Correct Answer:** Charlotte Brontôeuml;
+- Emily Brontôeuml;
 - Jane Austen
 - Louisa May Alcott
 
@@ -11697,7 +11539,7 @@
 - False
 
 
-### Q: The son of which pope supposedly held a lecherous fête involving 50 courtesans in the papal palace?
+### Q: The son of which pope supposedly held a lecherous fôecirc;te involving 50 courtesans in the papal palace?
 - **Correct Answer:** Alexander VI
 - Innocent V
 - Urban II
@@ -11793,7 +11635,7 @@
 - False
 
 
-### Q: The Statue of Liberty's official name is"Liberty Enlightening the World".
+### Q: The Statue of Liberty's official name is "Liberty Enlightening the World".
 - **Correct Answer:** True
 - False
 
@@ -11823,10 +11665,10 @@
 
 
 ### Q: The Sun consists of mostly which two elements?
-- **Correct Answer:** Hydrogen & Helium
-- Hydrogen & Nitrogen
-- Carbon & Nitrogen
-- Carbon & Helium
+- **Correct Answer:** Hydrogen ô Helium
+- Hydrogen ô Nitrogen
+- Carbon ô Nitrogen
+- Carbon ô Helium
 
 
 ### Q: The Sun rises from the North.
@@ -12044,7 +11886,7 @@
 - True
 
 
-### Q: The website "Shut Up & Sit Down" reviews which form of media?
+### Q: The website "Shut Up ô Sit Down" reviews which form of media?
 - **Correct Answer:** Board Games
 - Television Shows
 - Video Games
@@ -12144,20 +11986,6 @@
 - False
 
 
-### Q: The"fairy" type made it's debut in which generation of the Pokemon core series games?
-- **Correct Answer:** 6th
-- 2nd
-- 7th
-- 4th
-
-
-### Q: The"fairy" type made it's debut in which generation of the Pokemon core series games?
-- **Correct Answer:** 6th
-- 2nd
-- 7th
-- 4th
-
-
 ### Q: Theodore Roosevelt Jr. was the only General involved in the initial assault on D-Day.
 - **Correct Answer:** True
 - False
@@ -12251,7 +12079,7 @@
 - Hydrogen
 
 
-### Q: This field is sometimes known as"The Dismal Science."
+### Q: This field is sometimes known as "The Dismal Science."
 - **Correct Answer:** Economics
 - Philosophy
 - Politics
@@ -12576,7 +12404,7 @@
 - True
 
 
-### Q: Water always boils at 100°C, 212°F, 373.15K, no matter where you are.
+### Q: Water always boils at 100ôdeg;C, 212ôdeg;F, 373.15K, no matter where you are.
 - **Correct Answer:** False
 - True
 
@@ -12705,7 +12533,7 @@
 - Swordfish
 
 
-### Q: What animal takes part in Schrödinger's most famous thought experiment?
+### Q: What animal takes part in Schrôouml;dinger's most famous thought experiment?
 - **Correct Answer:** Cat
 - Dog
 - Bat
@@ -12817,13 +12645,6 @@
 - Chespin, Fennekin, Oshawott
 
 
-### Q: What are the Three Virtues of Bionicle?
-- **Correct Answer:** Unity, Duty, Destiny
-- Build, Play, Change
-- Work, Play, Live
-- Forge, Build, Fight
-
-
 ### Q: What are tiny Thwomps called in Super Mario World?
 - **Correct Answer:** Thwimps
 - Little Thwomp
@@ -12859,7 +12680,7 @@
 - Doberman Pinscher
 
 
-### Q: What breed of dog was Marley in the film "Marley & Me" (2008)?
+### Q: What breed of dog was Marley in the film "Marley ô Me" (2008)?
 - **Correct Answer:** Labrador Retriever
 - Golden Retriever
 - Dalmatian
@@ -13111,7 +12932,7 @@
 - Esports 2014 Case
 
 
-### Q: What date is referenced in the 1971 song "September" by Earth, Wind & Fire?
+### Q: What date is referenced in the 1971 song "September" by Earth, Wind ô Fire?
 - **Correct Answer:** 21st of September
 - 26th of September
 - 23rd of September
@@ -13209,7 +13030,7 @@
 - Kiwi Food Cut
 
 
-### Q: What do the video games No Man's Sky and Mighty No. 9 have in common?
+### Q: What do the video games No Manôrsquo;s Sky and Mighty No. 9 have in common?
 - **Correct Answer:** Both were announced in 2013.
 - Both were crowdfunded.
 - Both were developed by indie studios.
@@ -13575,7 +13396,7 @@
 
 ### Q: What French sculptor designed the Statue of Liberty? 
 - **Correct Answer:** Frédéric Auguste Bartholdi
-- Jean-Léon Gérôme
+- Jean-Léon Gérôocirc;me
 - Auguste Rodin
 - Henri Matisse
 
@@ -13636,7 +13457,7 @@
 - The Charge of the Light Brigade (Crimean War)
 
 
-### Q: What historical time period was the center of the Assassin's Creed movie (2016)?
+### Q: What historical time period was the center of the Assassinôrsquo;s Creed movie (2016)?
 - **Correct Answer:** Spanish Inquisition
 - Victorian England
 - French Revolution
@@ -13655,13 +13476,6 @@
 - Mountain
 - Temple
 - Castle
-
-
-### Q: What ingredient is NOT used to craft a cake in Minecraft?
-- **Correct Answer:** Bread
-- Wheat
-- Milk
-- Egg
 
 
 ### Q: What ingredients are required to make a cake in Minecraft?
@@ -13690,6 +13504,13 @@
 - A combat stimulant from WW2
 - A type of seasoning
 - A port city in the carribean
+
+
+### Q: What is "The Sport of Kings"?
+- **Correct Answer:** Horse Racing
+- Chess
+- Jousting
+- Fencing
 
 
 ### Q: What is a "dakimakura"?
@@ -13994,10 +13815,10 @@
 
 
 ### Q: What is the 15th letter of the Greek alphabet?
-- **Correct Answer:** Omicron (Ο)
-- Sigma (Σ)
-- Pi (Π)
-- Nu (Ν)
+- **Correct Answer:** Omicron (ôOmicron;)
+- Sigma (ôSigma;)
+- Pi (ôPi;)
+- Nu (ôNu;)
 
 
 ### Q: What is the 4th boss in the 1997 video game "Crash Bandicoot 2: Cortex Strikes Back"?
@@ -14012,6 +13833,13 @@
 - 11
 - 12
 - 9
+
+
+### Q: What is the airspeed velocity of an unladen swallow?
+- **Correct Answer:** 24 MPH
+- 15 MPH
+- 20 MPH
+- 200 MPH
 
 
 ### Q: What is the AK-47's name in Counter Strike: Source?
@@ -14042,7 +13870,7 @@
 - 1.41
 
 
-### Q: What is the area of a circle with a diameter of 20 inches if π= 3.1415?
+### Q: What is the area of a circle with a diameter of 20 inches if ôpi;= 3.1415?
 - **Correct Answer:** 314.15 Inches
 - 380.1215 Inches
 - 3141.5 Inches
@@ -14147,13 +13975,6 @@
 - Trbovlje
 
 
-### Q: What is the capital of Australia?
-- **Correct Answer:** Canberra
-- Sydney
-- Melbourne
-- Brisbane
-
-
 ### Q: What is the capital of Belarus?
 - **Correct Answer:** Minsk
 - Warsaw
@@ -14170,8 +13991,8 @@
 
 ### Q: What is the capital of Chile?
 - **Correct Answer:** Santiago
-- Valparaíso
-- Copiapó;
+- Valparaôiacute;so
+- Copiapôoacute;
 - Antofagasta
 
 
@@ -14497,6 +14318,13 @@
 - It's All In Your Head 420 / Understand
 
 
+### Q: What is the exact length of one non-curved part in Lane 1 of an Olympic Track?
+- **Correct Answer:** 84.39m
+- 100m
+- 100yd
+- 109.36yd
+
+
 ### Q: What is the famous Papa John's last name?
 - **Correct Answer:** Schnatter
 - Chowder
@@ -14507,15 +14335,8 @@
 ### Q: What is the fastest  land animal?
 - **Correct Answer:** Cheetah
 - Lion
-- Thomson's Gazelle
+- Thomsonôrsquo;s Gazelle
 - Pronghorn Antelope
-
-
-### Q: What is the fastest animal?
-- **Correct Answer:** Peregrine Falcon
-- Golden Eagle
-- Cheetah
-- Horsefly
 
 
 ### Q: What is the fastest road legal car in the world?
@@ -14525,7 +14346,7 @@
 - Pagani Huayra BC
 
 
-### Q: What is the fastest speed possible in Trackmania²: Stadium?
+### Q: What is the fastest speed possible in Trackmaniaôsup2;: Stadium?
 - **Correct Answer:** 1000  km/h
 - 500 km/h
 - 320 km/h
@@ -14549,7 +14370,7 @@
 ### Q: What is the Finnish word for "Finland"?
 - **Correct Answer:** Suomi
 - Eesti
-- Magyarország
+- Magyarorszôaacute;g
 - Sverige
 
 
@@ -14584,22 +14405,15 @@
 ### Q: What is the first Studio Album to be released on the Internet with a "Pay-What-You-Want" price?
 - **Correct Answer:** In Rainbows
 - The Help Album
-- Skrillex and Diplo Present Jack Ü
+- Skrillex and Diplo Present Jack ôUuml;
 - Blackstar
 
 
-### Q: What is the first track on Kanye West's 808s & Heartbreak?
+### Q: What is the first track on Kanye West's 808s ô Heartbreak?
 - **Correct Answer:** Say You Will
 - Welcome to Heartbreak
 - Street Lights
 - Heartless
-
-
-### Q: What is the first track on the Dave Matthews Band album "Before These Crowded Streets"?
-- **Correct Answer:** Pantala Naga Pampa
-- Stay (Wasting Time)
-- Rapunzel
-- Don't Drink The Water
 
 
 ### Q: What is the first weapon you acquire in Half-Life?
@@ -14616,7 +14430,7 @@
 - Leviticus
 
 
-### Q: What is the fourth digit of π?
+### Q: What is the fourth digit of ôpi;?
 - **Correct Answer:** 1
 - 2
 - 3
@@ -14680,10 +14494,10 @@
 
 
 ### Q: What is the German word for "spoon"?
-- **Correct Answer:** Löffel
+- **Correct Answer:** Lôouml;ffel
 - Gabel
 - Messer
-- Essstäbchen
+- Essstôauml;bchen
 
 
 ### Q: What is the Gray Wolf's scientific name?
@@ -15001,7 +14815,7 @@
 - C13H25NO4
 
 
-### Q: What is the most challenging monster in the Dungeons & Dragons 5th Edition Monster Manual?
+### Q: What is the most challenging monster in the Dungeons ô Dragons 5th Edition Monster Manual?
 - **Correct Answer:** Tarrasque
 - Beholder
 - Displacer Beast
@@ -15093,7 +14907,7 @@
 
 
 ### Q: What is the name of "Team Fortress 2" update, in which it became Free-to-play?
-- **Correct Answer:** Über Update
+- **Correct Answer:** ôUuml;ber Update
 - Pyromania Update
 - Mann-Conomy Update
 - Engineer Update
@@ -15148,13 +14962,6 @@
 - Khamsin
 
 
-### Q: What is the name of French electronic music producer Madeon's 2015 debut studio album?
-- **Correct Answer:** Adventure
-- The City
-- Icarus
-- Pop Culture
-
-
 ### Q: What is the name of Funny Valentine's stand in Jojo's Bizarre Adventure Part 7, Steel Ball Run?
 - **Correct Answer:** Dirty Deeds Done Dirt Cheap
 - Filthy Acts Done For A Reasonable Price
@@ -15190,7 +14997,7 @@
 - St James Park
 
 
-### Q: What is the name of NASA's most famous space telescope?
+### Q: What is the name of NASAôrsquo;s most famous space telescope?
 - **Correct Answer:** Hubble Space Telescope
 - Big Eye
 - Death Star
@@ -15204,7 +15011,7 @@
 - Samoans
 
 
-### Q: What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?
+### Q: What is the name of Niccolôograve; Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?
 - **Correct Answer:** The Prince
 - The Rape of Lucrece
 - Will to Power
@@ -15220,7 +15027,7 @@
 
 ### Q: What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?
 - **Correct Answer:** Lishana Deni
-- Hulaulá
+- Hulaulôaacute;
 - Lishan Didan
 - Chaldean Neo-Aramaic
 
@@ -15229,7 +15036,7 @@
 - **Correct Answer:** Polska
 - Pupcia
 - Polszka
-- Pó;land
+- Pôoacute;land
 
 
 ### Q: What is the name of Rivers Cuomo's wife?
@@ -15282,8 +15089,8 @@
 
 
 ### Q: What is the name of the 2016 mixtape released by Venezuelan electronic producer Arca?
-- **Correct Answer:** Entrañas
-- &&&&&&
+- **Correct Answer:** Entraôntilde;as
+- ôôôôôô
 - Sheep
 - Xen
 
@@ -15403,7 +15210,7 @@
 ### Q: What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?
 - **Correct Answer:** Dunning-Kruger effect
 - Meyers-Briggs effect
-- Müller-Lyer effect
+- Môuuml;ller-Lyer effect
 - Freud-Hall effect
 
 
@@ -15659,6 +15466,13 @@
 - Anna
 
 
+### Q: What is the name of the main character in the webcomic Gunnerkrigg Court by Tom Siddell?
+- **Correct Answer:** Antimony
+- Bismuth
+- Mercury
+- Cobalt
+
+
 ### Q: What is the name of the main character of the anime "One-Punch Man"?
 - **Correct Answer:** Saitama
 - Genos
@@ -15771,14 +15585,7 @@
 - St. Bernadette
 
 
-### Q: What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?
-- **Correct Answer:** Californian
-- Carpathia
-- Cristol
-- Commerce
-
-
-### Q: What is the name of the song by Beyoncé and Alejandro Fernández released in 2007?
+### Q: What is the name of the song by Beyoncé and Alejandro Fernôaacute;ndez released in 2007?
 - **Correct Answer:** Amor Gitano
 - La ultima vez
 - Rocket
@@ -15825,6 +15632,13 @@
 - USS North Carolina
 - USS Constitution
 - USS Indianapolis
+
+
+### Q: What is the name of the very first video uploaded to YouTube?
+- **Correct Answer:** Me at the zoo
+- tribute
+- carrie rides a truck
+- Her new puppy from great grandpa vern.
 
 
 ### Q: What is the name of the villian in the 2015 Russian-American Sci-Fi Movie "Hardcore Henry"?
@@ -15883,18 +15697,11 @@
 - Wasps
 
 
-### Q: What is the nickname of the US state of California?
-- **Correct Answer:** Golden State
-- Sunshine State
-- Bay State
-- Treasure State
-
-
 ### Q: What is the northernmost human settlement with year round inhabitants?
 - **Correct Answer:** Alert, Canada
 - Nagurskoye, Russia
 - McMurdo Station, Antarctica 
-- Honningsvåg, Norway
+- Honningsvôaring;g, Norway
 
 
 ### Q: What is the number of keys on a standard Windows Keyboard?
@@ -16016,13 +15823,6 @@
 - R2-D2
 
 
-### Q: What is the original name of Final Fantasy XV?
-- **Correct Answer:** Final Fantasy Versus XIII
-- Final Fantasy: Reborn
-- Final Fantasy XVI
-- Final Fantasy XIII-3
-
-
 ### Q: What is the perk that was introduced in the "Call Of Duty: Zombies" map, "Mob Of The Dead"?
 - **Correct Answer:** Electric Cherry
 - Quick Revive
@@ -16055,7 +15855,7 @@
 - **Correct Answer:** Brasil
 - Brazil
 - Brasilia
-- Brasíl
+- Brasôiacute;l
 
 
 ### Q: What is the powerhouse of the cell?
@@ -16157,7 +15957,7 @@
 
 
 ### Q: What is the relationship between the band members of American rock band King of Leon?
-- **Correct Answer:** Brothers & cousins
+- **Correct Answer:** Brothers ô cousins
 - Childhood friends
 - Former classmates
 - Fraternity house members
@@ -16416,14 +16216,14 @@
 
 
 ### Q: What is the Swedish word for "window"?
-- **Correct Answer:** Fönster
-- Hål
-- Skärm
+- **Correct Answer:** Fôouml;nster
+- Hôaring;l
+- Skôauml;rm
 - Ruta
 
 
 ### Q: What is the symbol for Displacement?
-- **Correct Answer:** Δr
+- **Correct Answer:** ôDelta;r
 - dr
 - Dp
 - r
@@ -16469,13 +16269,6 @@
 - Ruble
 - Konra
 - Dollar
-
-
-### Q: What is the unit of electrical capacitance?
-- **Correct Answer:** Farad
-- Gauss
-- Henry
-- Watt
 
 
 ### Q: What is the unit of electrical inductance?
@@ -16541,13 +16334,6 @@
 - 67
 
 
-### Q: What is"The Sport of Kings"?
-- **Correct Answer:** Horse Racing
-- Chess
-- Jousting
-- Fencing
-
-
 ### Q: What island in the Canary Islands was the scene of one of the worst air disasters in history with the collision of two jumbo jets?
 - **Correct Answer:** Tenerife
 - Fuerteventura
@@ -16563,10 +16349,10 @@
 
 
 ### Q: What kind of train was Stepney, a train on the Bluebell Railway notable for his appearance in "The Railway Series"?
-- **Correct Answer:** LB&SCR A1X
-- LB&SCR E2
-- LB&SCR J1
-- LB&SCR D1
+- **Correct Answer:** LBôSCR A1X
+- LBôSCR E2
+- LBôSCR J1
+- LBôSCR D1
 
 
 ### Q: What language does Node.js use?
@@ -16732,8 +16518,8 @@
 
 ### Q: What name was historically used for the Turkish city currently known as Istanbul?
 - **Correct Answer:** Constantinople
-- Hüdavendigar
-- Söğüt
+- Hôuuml;davendigar
+- Sôouml;ğôuuml;t
 - Adrianople
 
 
@@ -16943,7 +16729,7 @@
 ### Q: What song is played during the ending credits of Guitar Hero: World Tour?
 - **Correct Answer:** Dream Theater - Pull Me Under
 - King Crimson - 21st Century Schizoid Man
-- Dragonforce - Through The Fire & The Flames
+- Dragonforce - Through The Fire ô The Flames
 - Lynyrd Skynyrd - Free Bird
 
 
@@ -17081,17 +16867,17 @@
 
 
 ### Q: What TV show is about a grandfather dragging his grandson around on adventures?
-- **Correct Answer:** Rick & Morty
+- **Correct Answer:** Rick ô Morty
 - Family Guy
 - South Park
 - American Dad
 
 
 ### Q: What two characters from the game Undertale are never in a relationship or not related?
-- **Correct Answer:** Frisk & Chara
-- Sans & Papyrus
-- Toriel & Asgore
-- Alphys & Undyne
+- **Correct Answer:** Frisk ô Chara
+- Sans ô Papyrus
+- Toriel ô Asgore
+- Alphys ô Undyne
 
 
 ### Q: What type of animal is a natterjack?
@@ -17129,7 +16915,7 @@
 - Pug
 
 
-### Q: What type of function is x²+2x+1?
+### Q: What type of function is xôsup2;+2x+1?
 - **Correct Answer:** Quadratic
 - Rational
 - Linear
@@ -17138,7 +16924,7 @@
 
 ### Q: What type of genre is the controversial 2015 game "Hatred"?
 - **Correct Answer:** Shoot 'Em Up
-- Point & Click
+- Point ô Click
 - MMORPG
 - Simulation
 
@@ -17269,13 +17055,6 @@
 - Human After All
 
 
-### Q: What was David Bowie's real surname?
-- **Correct Answer:** Jones
-- Johnson
-- Edwards
-- Carter
-
-
 ### Q: What was Dorothy's surname in 'The Wizard Of Oz'?
 - **Correct Answer:** Gale
 - Perkins
@@ -17298,17 +17077,17 @@
 
 
 ### Q: What was Genghis Khan's real name?
-- **Correct Answer:** Temüjin
-- Möngke
-- Ögedei
-- Temür
+- **Correct Answer:** Temôuuml;jin
+- Môouml;ngke
+- ôOuml;gedei
+- Temôuuml;r
 
 
 ### Q: What was George Bizet's last opera?
 - **Correct Answer:** Carmen
 - Don Rodrigue
 - Grisélidis
-- Les pêcheurs de perles
+- Les pôecirc;cheurs de perles
 
 
 ### Q: What was Humphrey Bogart's middle name?
@@ -17356,15 +17135,8 @@
 ### Q: What was Napoleon Bonaparte's name before he changed it?
 - **Correct Answer:** Napoleone di Buonaparte
 - Naapolion van Bonijpaart
-- Napoleão do Boaparte
+- Napoleôatilde;o do Boaparte
 - Napoleona de Buenoparte
-
-
-### Q: What was Nickelodeon's original name?
-- **Correct Answer:** Pinwheel
-- MTVKids
-- KidsTV
-- Splat!
 
 
 ### Q: What was Radiohead's first album?
@@ -17442,6 +17214,13 @@
 - Starbuck
 - Apollo
 - Crashdown
+
+
+### Q: What was the capital of South Vietnam before the Vietnam War?
+- **Correct Answer:** Saigon
+- Ho Chi Minh City
+- Hanoi
+- Hue
 
 
 ### Q: What was the cause of death for Freddie Mercury?
@@ -17633,13 +17412,6 @@
 - Thunderball
 
 
-### Q: What was the first living creature in space?
-- **Correct Answer:** Fruit Flies 
-- Monkey
-- Dog
-- Mouse
-
-
 ### Q: What was the first monster to appear alongside Godzilla?
 - **Correct Answer:** Anguirus
 - King Kong
@@ -17710,13 +17482,6 @@
 - Galactic Wars
 
 
-### Q: What was the last Aphex Twin album released before his decade-long hiatus?
-- **Correct Answer:** Drukqs
-- Windowlicker
-- Syro
-- Collected Ambient Works 85-92
-
-
 ### Q: What was the last colony the UK ceded marking the end of the British Empire?
 - **Correct Answer:** Hong Kong
 - India
@@ -17746,7 +17511,7 @@
 
 
 ### Q: What was the most populous city in the Americas in 2015?
-- **Correct Answer:** São Paulo
+- **Correct Answer:** Sôatilde;o Paulo
 - New York
 - Mexico City
 - Los Angeles
@@ -17785,13 +17550,6 @@
 - Lucky
 - Rocky
 - Max
-
-
-### Q: What was the name of Marilyn Monroe's first husband?
-- **Correct Answer:** James Dougherty
-- Joe Dimaggio
-- Kirk Douglas
-- Arthur Miller
 
 
 ### Q: What was the name of one of the surviving palaces of Henry VIII located near Richmond, London?
@@ -17876,6 +17634,13 @@
 - Soyuz 7K-OK
 - Zenit-2
 - Voskhod 3KV
+
+
+### Q: What was the name of the first Bulgarian personal computer?
+- **Correct Answer:** IMKO-1
+- Pravetz 82
+- Pravetz 8D
+- IZOT 1030
 
 
 ### Q: What was the name of the first front-wheel-drive car produced by Datsun (now Nissan)?
@@ -18060,13 +17825,6 @@
 - 83
 
 
-### Q: What was the original name of  "Minecraft"?
-- **Correct Answer:** Cave Game
-- Minecraft: Order of the Stone
-- Dig And Build
-- Infiniminer
-
-
 ### Q: What was the original name of Crash Bandicoot?
 - **Correct Answer:** Willie Wombat
 - Coco Bandicoot
@@ -18208,7 +17966,7 @@
 
 
 ### Q: What was The Velvet Underground's first album called?
-- **Correct Answer:** The Velvet Underground & Nico
+- **Correct Answer:** The Velvet Underground ô Nico
 - Loaded
 - The Velvet Underground
 - White Light / White Heat
@@ -18225,7 +17983,7 @@
 - **Correct Answer:** Mattel Auto Race
 - Game Boy
 - Microvision
-- Game & Watch
+- Game ô Watch
 
 
 ### Q: What was the world's first video game?
@@ -18291,7 +18049,7 @@
 - 1994
 
 
-### Q: What year did Albrecht Dürer create the painting "The Young Hare"?
+### Q: What year did Albrecht Dôuuml;rer create the painting "The Young Hare"?
 - **Correct Answer:** 1502
 - 1702
 - 1402
@@ -18347,7 +18105,7 @@
 - 1422
 
 
-### Q: What year did the Boxing Day earthquake & tsunami occur in the Indian Ocean?
+### Q: What year did the Boxing Day earthquake ô tsunami occur in the Indian Ocean?
 - **Correct Answer:** 2004
 - 2006
 - 2008
@@ -18415,6 +18173,13 @@
 - 1888
 - 1999
 - 2003
+
+
+### Q: What year is considered to be the year that the British Empire ended?
+- **Correct Answer:** 1997
+- 1986
+- 1981
+- 1971
 
 
 ### Q: What year is on the flag of the US state Wisconsin?
@@ -18607,10 +18372,10 @@
 
 
 ### Q: What's the name of Batman's parents?
-- **Correct Answer:** Thomas & Martha
-- Joey & Jackie
-- Jason & Sarah
-- Todd & Mira
+- **Correct Answer:** Thomas ô Martha
+- Joey ô Jackie
+- Jason ô Sarah
+- Todd ô Mira
 
 
 ### Q: What's the name of the halloween-related Sims 4 Stuff Pack released September 29th, 2015?
@@ -18777,13 +18542,6 @@
 - 1999
 - 1841
 - 1900
-
-
-### Q: When did the CD begin to appear on the consumer market?
-- **Correct Answer:** 1982
-- 1992
-- 1972
-- 1962
 
 
 ### Q: When did the Crisis of the Third Century begin?
@@ -19323,6 +19081,13 @@
 - Bagshot
 
 
+### Q: Where did the dog breed "Chihuahua" originate?
+- **Correct Answer:** Mexico
+- France
+- Spain
+- Russia
+
+
 ### Q: Where did the Great Storm of 1987 make landfall at, first?
 - **Correct Answer:** Cornwall
 - Surrey
@@ -19379,13 +19144,6 @@
 - Santa Monica, CA
 
 
-### Q: Where is Hadrian's Wall located?
-- **Correct Answer:** Carlisle, England
-- Rome, Italy
-- Alexandria, Egypt
-- Dublin, Ireland
-
-
 ### Q: Where is the "Sonoran Desert" located?
 - **Correct Answer:** North America
 - South America
@@ -19414,7 +19172,7 @@
 - Torso
 
 
-### Q: Where is the train station "Llanfair pwllgwyngyll gogery chwyrn drobwll llan tysilio gogo goch"?
+### Q: Where is the train station "Llanfairôshy;pwllgwyngyllôshy;gogeryôshy;chwyrnôshy;drobwllôshy;llanôshy;tysilioôshy;gogoôshy;goch"?
 - **Correct Answer:** Wales
 - Moldova
 - Czech Republic
@@ -19522,13 +19280,13 @@
 ### Q: Which 80s band is fronted by singer/guitarist Robert Smith?
 - **Correct Answer:** The Cure
 - The Smiths
-- Echo & the Bunnymen
+- Echo ô the Bunnymen
 - New Order
 
 
 ### Q: Which 90's comedy cult classic features cameos appearances from Meat Loaf, Alice Cooper and Chris Farley?
 - **Correct Answer:** Wayne's World
-- Bill & Ted's Excellent Adventure
+- Bill ô Ted's Excellent Adventure
 - Dumb and Dumber
 - Austin Powers: International Man of Mystery
 
@@ -19607,7 +19365,7 @@
 - **Correct Answer:** Clint Eastwood, Eli Wallach, and Lee Van Cleef
 - Sergio Leone, Ennio Morricone, and Tonino Delli Colli
 - Yul Brynner, Steve McQueen, and Charles Bronson
-- Aldo Giuffrè, Mario Brega, and Luigi Pistilli
+- Aldo Giuffrôegrave;, Mario Brega, and Luigi Pistilli
 
 
 ### Q: Which actress danced the twist with John Travolta in 'Pulp Fiction'?
@@ -19653,7 +19411,7 @@
 
 
 ### Q: Which album by American rapper Kanye West contained songs such as "Love Lockdown", "Paranoid" and "Heartless"?
-- **Correct Answer:** 808s & Heartbreak
+- **Correct Answer:** 808s ô Heartbreak
 - Late Registration
 - The Life of Pablo
 - Graduation
@@ -19869,18 +19627,18 @@
 - Flosstradamus
 
 
-### Q: Which artist's studio was known as 'The Factory'?
-- **Correct Answer:** Andy Warhol
-- Roy Lichtenstein
-- David Hockney
-- Peter Blake
-
-
 ### Q: Which artist's style was to use small different colored dots to create a picture?
 - **Correct Answer:** Georges Seurat
 - Paul Cézanne
 - Vincent Van Gogh
 - Henri Rousseau
+
+
+### Q: Which artistôrsquo;s studio was known as 'The Factory'?
+- **Correct Answer:** Andy Warhol
+- Roy Lichtenstein
+- David Hockney
+- Peter Blake
 
 
 ### Q: Which Audi does not use Haldex based all wheel drive system?
@@ -19911,7 +19669,7 @@
 - Smokie
 
 
-### Q: Which band had hits in 1975 with the songs, 'One Of These Nights' & 'Lyin Eyes'?
+### Q: Which band had hits in 1975 with the songs, 'One Of These Nights' ô 'Lyin Eyes'?
 - **Correct Answer:** The Eagles
 - Fools Gold
 - The Doobie Brothers
@@ -19953,6 +19711,13 @@
 - Depeche Mode
 
 
+### Q: Which band released the album "Sonic Highways" in 2014?
+- **Correct Answer:** Foo Fighters
+- Coldplay
+- Nickelback
+- The Flaming Lips
+
+
 ### Q: Which basketball team has attended the most NBA grand finals?
 - **Correct Answer:** Los Angeles Lakers
 - Boston Celtics
@@ -19965,13 +19730,6 @@
 - Dick Grayson
 - Tim Drake
 - Jason Todd
-
-
-### Q: Which Beatle led the way across the zebra crossing on the Abbey Road album cover?
-- **Correct Answer:** John
-- Paul
-- George
-- Ringo
 
 
 ### Q: Which Beatle wrote and sang the song "Why Don't We Do It in the Road" after being inspired by seeing two monkeys copulating in the street?
@@ -19992,7 +19750,7 @@
 - **Correct Answer:** Cabbage Patch Kids
 - Transformers
 - Care Bears
-- Rubik's Cube
+- Rubikôrsquo;s Cube
 
 
 ### Q: Which board game was first released on February 6th, 1935?
@@ -20067,7 +19825,7 @@
 
 ### Q: Which candy is NOT made by Mars?
 - **Correct Answer:** Almond Joy
-- M&M's
+- MôM's
 - Twix
 - Snickers
 
@@ -20126,6 +19884,13 @@
 - Toyota
 - Audi
 - Chevrolet
+
+
+### Q: Which car tire manufacturer is famous for its "Eagle" brand of tires, and is the official tire supplier of NASCAR?
+- **Correct Answer:** Goodyear
+- Pirelli
+- Bridgestone
+- Michelin
 
 
 ### Q: Which car tire manufacturer is famous for its "P Zero" line?
@@ -20229,7 +19994,7 @@
 ### Q: Which church's interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?
 - **Correct Answer:** St. Peter's Basilica
 - Catania Cathedral
-- St. Mark's Basilica
+- St. Markôrsquo;s Basilica
 - The Duomo of Florence
 
 
@@ -20263,7 +20028,7 @@
 
 ### Q: Which city is the capital of Switzerland?
 - **Correct Answer:** Bern
-- Zürich
+- Zôuuml;rich
 - Frankfurt
 - Wien
 
@@ -20413,13 +20178,6 @@
 - Croatia
 - Albania
 - Macedonia
-
-
-### Q: Which country did Kabaddi, a contact sport involving tackling, originate from?
-- **Correct Answer:** India
-- Australia
-- Turkey
-- Cambodia
 
 
 ### Q: Which country did the Eureka Rebellion, an 1856 battle against colonial rule, take place in?
@@ -20690,8 +20448,8 @@
 
 ### Q: Which director directed the movie "Pan's Labyrinth"?
 - **Correct Answer:** Guillermo Del Toro
-- Alfonso Cuaró;n
-- Alejandro González Iñárritu
+- Alfonso Cuarôoacute;n
+- Alejandro Gonzôaacute;lez Iôntilde;ôaacute;rritu
 -  Alejandro Jodorowsky
 
 
@@ -20863,7 +20621,7 @@
 - Mason Williams
 
 
-### Q: Which famous rapper is featured in Jack Ü (Skrillex and Diplo)'s 2015 single called "Febreze"?
+### Q: Which famous rapper is featured in Jack ôUuml; (Skrillex and Diplo)'s 2015 single called "Febreze"?
 - **Correct Answer:** 2 Chainz
 - Kendrick Lamar
 - Future
@@ -20910,13 +20668,6 @@
 - Hercules
 - Perseus
 - Daedalus
-
-
-### Q: Which film star has his statue in Leicester Square?
-- **Correct Answer:** Charlie Chaplin
-- Paul Newman
-- Rowan Atkinson 
-- Alfred Hitchcock
 
 
 ### Q: Which Final Fantasy game consisted of a female-only cast of party members?
@@ -21003,7 +20754,7 @@
 - Back to the Future
 
 
-### Q: Which French duo had UK hits in 1998 with the songs 'Sexy Boy', 'Kelly Watch The Stars' & 'All I Need'?
+### Q: Which French duo had UK hits in 1998 with the songs 'Sexy Boy', 'Kelly Watch The Stars' ô 'All I Need'?
 - **Correct Answer:** Air
 - Fire
 - Earth
@@ -21068,7 +20819,7 @@
 
 ### Q: Which game was exclusive to Dreamcast?
 - **Correct Answer:** Pen Pen TriIcelon
-- Sylvester & Tweety in Cagey Capers
+- Sylvester ô Tweety in Cagey Capers
 - Perfect Dark
 - Tetrisphere
 
@@ -21098,10 +20849,10 @@
 - **Correct Answer:** Professor Layton
 - Persona
 - Etrian Odyssey
-- Sam & Max
+- Sam ô Max
 
 
-### Q: Which gas forms about 78% of the Earth's atmosphere?
+### Q: Which gas forms about 78% of the Earthôrsquo;s atmosphere?
 - **Correct Answer:** Nitrogen
 - Oxygen
 - Argon
@@ -21109,7 +20860,7 @@
 
 
 ### Q: Which genre is the Touhou Project associated with?
-- **Correct Answer:** Shoot 'em up (bullet-hell) & Fighting
+- **Correct Answer:** Shoot 'em up (bullet-hell) ô Fighting
 - Turn-Based Strategy
 - MMORPG
 - Building 
@@ -21157,13 +20908,6 @@
 - GTA IV and GTA Vice City
 
 
-### Q: Which Greek & Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?
-- **Correct Answer:** Apollo
-- Aphrodite
-- Artemis
-- Athena
-
-
 ### Q: Which greek god/goddess tossed a golden apple with the words "for the fairest" into the middle of the feast of the gods?
 - **Correct Answer:** Eris
 - Hades
@@ -21183,6 +20927,13 @@
 - Euclid
 - Homer
 - Eratosthenes
+
+
+### Q: Which Greek ô Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?
+- **Correct Answer:** Apollo
+- Aphrodite
+- Artemis
+- Athena
 
 
 ### Q: Which group performs the song "Crash into Me"?
@@ -21224,7 +20975,7 @@
 - **Correct Answer:** Unknown Pleasures
 - The Dark Side of the Moon
 - London Calling
-- The Velvet Underground & Nico
+- The Velvet Underground ô Nico
 
 
 ### Q: Which iconic character is featured in movies such as "The Enforcer", "Sudden Impact", and "The Dead Pool"?
@@ -21360,13 +21111,6 @@
 - Rome
 
 
-### Q: Which Italian footballer told Neuer where he's putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?
-- **Correct Answer:** Pelle
-- Insigne
-- Barzagli
-- Giaccherini
-
-
 ### Q: Which item of clothing is usually worn by a Scotsman at a wedding?
 - **Correct Answer:** Kilt
 - Skirt
@@ -21481,9 +21225,9 @@
 
 ### Q: Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?
 - **Correct Answer:** Cretaceous-Paleogene
-- Triassic–Jurassic
-- Permian–Triassic
-- Ordovician–Silurian
+- Triassicôndash;Jurassic
+- Permianôndash;Triassic
+- Ordovicianôndash;Silurian
 
 
 ### Q: Which male player won the gold medal of table tennis singles in 2016 Olympics Games?
@@ -21661,20 +21405,6 @@
 - Netherlands
 
 
-### Q: Which nation hosted the FIFA World Cup in 2006?
-- **Correct Answer:** Germany
-- United Kingdom
-- Brazil
-- South Africa
-
-
-### Q: Which Native American tribe/nation requires at least one half blood quantum (equivalent to one parent) to be eligible for membership?
-- **Correct Answer:** Yomba Shoshone Tribe
-- Standing Rock Sioux Tribe
-- Kiowa Tribe of Oklahoma
-- Pawnee Nation of Oklahoma
-
-
 ### Q: Which naval battle was considered the turning point of the Pacific Ocean Theater during World War 2?
 - **Correct Answer:** Battle of Midway
 - Attack on Truk Island
@@ -21817,7 +21547,7 @@
 
 ### Q: Which of the following African countries was most successful in resisting colonization?
 - **Correct Answer:** Ethiopia
-- Côte d'Ivoire
+- Côocirc;te dôrsquo;Ivoire
 - Congo
 - Namibia
 
@@ -21885,11 +21615,18 @@
 - Ratchet
 
 
+### Q: Which of the following awards do Matt Stone and Trey Parker NOT have?
+- **Correct Answer:** Oscar
+- Emmy
+- Tony
+- Grammy
+
+
 ### Q: Which of the following bands is Tom DeLonge not a part of?
 - **Correct Answer:** +44
 - Box Car Racer
 - Blink-182
-- Angels & Airwaves
+- Angels ô Airwaves
 
 
 ### Q: Which of the following battles is often considered as marking the beginning of the fall of the Western Roman Empire?
@@ -22032,7 +21769,7 @@
 - Register
 
 
-### Q: Which of the following Copy Abilities was only featured in "Kirby & The Amazing Mirror"?
+### Q: Which of the following Copy Abilities was only featured in "Kirby ô The Amazing Mirror"?
 - **Correct Answer:** Mini
 - Magic
 - Smash
@@ -22156,13 +21893,6 @@
 - Titan A.E.
 - Anastasia
 - The Land Before Time
-
-
-### Q: Which of the following films was NOT directed by Hayao Miyazaki?
-- **Correct Answer:** Wolf Children
-- Princess Mononoke
-- Spirited Away
-- Kiki's Delivery Service
 
 
 ### Q: Which of the following films was NOT directed by Quentin Tarantino?
@@ -22301,8 +22031,8 @@
 ### Q: Which of the following is considered classical conditioning?
 - **Correct Answer:** Pavlov's dog experiments
 - Skinner box experiment
-- Schrödinger's cat experiment
-- Harlow's monkey experiments
+- Schrôouml;dinger's cat experiment
+- Harlowôrsquo;s monkey experiments
 
 
 ### Q: Which of the following is NOT a capital city?
@@ -22392,7 +22122,7 @@
 ### Q: Which of the following is NOT a quote from the 1942 film Casablanca? 
 - **Correct Answer:** "Frankly, my dear, I don't give a damn."
 - "Here's lookin' at you, kid."
--"Of all the gin joints, in all the towns, in all the world, she walks into mine…"
+- "Of all the gin joints, in all the towns, in all the world, she walks into mineôhellip;"
 - "Round up the usual suspects."
 
 
@@ -22487,13 +22217,6 @@
 - Melongene
 
 
-### Q: Which of the following is NOT classified as a Semetic language?
-- **Correct Answer:** Sumerian
-- Maltese
-- Akkadian
-- Mandaic
-
-
 ### Q: Which of the following is not in the Indo-European language family?
 - **Correct Answer:** Finnish
 - English
@@ -22508,7 +22231,7 @@
 - Lachesis
 
 
-### Q: Which of the following is NOT one of the main characters in Grand Theft Auto V's story mode?
+### Q: Which of the following is NOT one of the main characters in Grand Theft Auto Vôrsquo;s story mode?
 - **Correct Answer:** Tommy Vercetti
 - Michael de Santa
 - Franklin Clinton
@@ -22627,7 +22350,7 @@
 - Objective-C
 
 
-### Q: Which of the following liquids is least viscous? Assume temperature is 25°C.
+### Q: Which of the following liquids is least viscous? Assume temperature is 25ôdeg;C.
 - **Correct Answer:** Acetone
 - Water
 - Mercury
@@ -22739,13 +22462,6 @@
 - Polystyrene (PS)
 
 
-### Q: Which of the following player scored a hat-trick during their Manchester United debut?
-- **Correct Answer:** Wayne Rooney
-- Cristiano Ronaldo
-- Robin Van Persie
-- David Beckham
-
-
 ### Q: Which of the following Pokemon Types was present in the original games, Red and Blue?
 - **Correct Answer:** Ice
 - Steel
@@ -22782,7 +22498,7 @@
 
 
 ### Q: Which of the following snipers has the highest amount of confirmed kills?
-- **Correct Answer:** Simo Häyhä
+- **Correct Answer:** Simo Hôauml;yhôauml;
 - Chris Kyle
 - Vasily Zaytsev
 - Craig Harrison
@@ -22800,6 +22516,13 @@
 - Apollo 11
 - Luna 2
 - SMART-1
+
+
+### Q: Which of the following sports is not part of the triathlon?
+- **Correct Answer:** Horse-Riding
+- Cycling
+- Swimming
+- Running
 
 
 ### Q: Which of the following superheros did Wonder Woman NOT have a love interest in?
@@ -22963,6 +22686,13 @@
 - Angola
 
 
+### Q: Which of these albums is a Wu-Tang Clan album?
+- **Correct Answer:** Iron Flag
+- Perfect Hair
+- The Low End Theory
+- Licensed to Ill
+
+
 ### Q: Which of these aliases has NOT been used by electronic musician Aphex Twin?
 - **Correct Answer:** Burial
 - Caustic Window
@@ -22982,13 +22712,6 @@
 - Octopus
 - Killer whale
 - Catfish
-
-
-### Q: Which of these animals is NOT a lizard?
-- **Correct Answer:** Tuatara
-- Komodo Dragon
-- Gila Monster
-- Green Iguana
 
 
 ### Q: Which of these anime have over 7,500 episodes?
@@ -23021,7 +22744,7 @@
 
 ### Q: Which of these artists did NOT remix the song "Faded" by Alan Walker?
 - **Correct Answer:** Skrillex
-- Tiësto
+- Tiôeuml;sto
 - Slushii
 - Dash Berlin
 
@@ -23250,7 +22973,7 @@
 - West Point, NY
 
 
-### Q: Which of these cities has a 4° East longitude. 
+### Q: Which of these cities has a 4ôdeg; East longitude. 
 - **Correct Answer:** Amsterdam
 - Rio de Janero
 - Toronto
@@ -23376,13 +23099,6 @@
 - The Engineers
 
 
-### Q: Which of these Disney classics was released in 1970?
-- **Correct Answer:** The Aristocats
-- One Hundred and One Dalmatians
-- The Fox and the Hound
-- The Little Mermaid
-
-
 ### Q: Which of these Disney shows is classified as an anime?
 - **Correct Answer:** Stitch!
 - Cory in the House
@@ -23457,7 +23173,7 @@
 - **Correct Answer:** Folklore
 - Shadow of the Colossus
 - ICO
-- Beyond Good & Evil
+- Beyond Good ô Evil
 
 
 ### Q: Which of these games was NOT a Nintendo Switch launch title in the United States? 
@@ -23479,13 +23195,6 @@
 - Doom
 - Wolfenstein
 - Quake
-
-
-### Q: Which of these Generation 1 Pokemon did NOT have an evolution in Generation 4?
-- **Correct Answer:** Jynx
-- Electabuzz
-- Magmar
-- Rhydon
 
 
 ### Q: Which of these in the Star Trek series is NOT Klingon food?
@@ -23670,13 +23379,6 @@
 - Hylotl
 
 
-### Q: Which of these is NOT a player class in Team Fortress 2?
-- **Correct Answer:** Healer
-- Demoman
-- Pyro
-- Spy
-
-
 ### Q: Which of these is NOT a possible drink to be made in the game "VA-11 HALL-A: Cyberpunk Bartender Action"?
 - **Correct Answer:** Sour Appletini
 - Fringe Weaver
@@ -23689,6 +23391,13 @@
 - Fujian
 - Sichuan
 - Guangdong
+
+
+### Q: Which of these is not a real character in the cartoon series My Little Pony: Friendship is Magic?
+- **Correct Answer:** Rose Marene
+- Pinkie Pie
+- Maud Pie
+- Rainbow Dash
 
 
 ### Q: Which of these is NOT a real tectonic plate?
@@ -23712,7 +23421,7 @@
 - BAMF
 
 
-### Q: Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume & Chet Faker?
+### Q: Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume ô Chet Faker?
 - **Correct Answer:** Left Alone
 - What About Us
 - This Song Is Not About A Girl
@@ -23768,13 +23477,6 @@
 - Palatinate
 
 
-### Q: Which of these is NOT an album released by The Beatles?
-- **Correct Answer:** The Wall
-- Abbey Road
-- Magical Mystery Tour
-- Revolver
-
-
 ### Q: Which of these is NOT an Australian state or territory?
 - **Correct Answer:** Alberta
 - New South Wales
@@ -23786,7 +23488,7 @@
 - **Correct Answer:** -
 - +
 - X
-- ÷
+- ôdivide;
 
 
 ### Q: Which of these is NOT an island that is part of the Philippines?
@@ -23889,7 +23591,7 @@
 
 ### Q: Which of these is the only fighter in the game "Super Smash Bros. Melee" capable of dealing damage with their taunt animation?
 - **Correct Answer:** Luigi
-- Mr. Game & Watch
+- Mr. Game ô Watch
 - Jigglypuff
 - Pichu
 
@@ -23941,13 +23643,6 @@
 - Tron: Legacy
 - The Giver
 - True Grit
-
-
-### Q: Which of these Movies was NOT released in 1996?
-- **Correct Answer:** Gladiator
-- Independence Day
-- The Rock
-- Mission: Impossible
 
 
 ### Q: Which of these musicals won the Tony Award for Best Musical?
@@ -24342,6 +24037,13 @@
 - Netherlands
 
 
+### Q: Which one of these films are shot entirely in one-take?
+- **Correct Answer:** Russian Ark
+- Good Will Hunting
+- Birdman
+- Schindler's List
+
+
 ### Q: Which one of these games came out first?
 - **Correct Answer:** Terraria
 - Minecraft
@@ -24356,11 +24058,11 @@
 - Hitman
 
 
-### Q: Which one of these is not a real game in the Dungeons & Dragons series?
-- **Correct Answer:** Extreme Dungeons & Dragons
-- Advanced Dungeons & Dragons
-- Dungeons & Dragons 3.5th edition
-- Advanced Dungeons & Dragons 2nd edition
+### Q: Which one of these is not a real game in the Dungeons ô Dragons series?
+- **Correct Answer:** Extreme Dungeons ô Dragons
+- Advanced Dungeons ô Dragons
+- Dungeons ô Dragons 3.5th edition
+- Advanced Dungeons ô Dragons 2nd edition
 
 
 ### Q: Which one of these is not a typical European sword design?
@@ -24398,7 +24100,7 @@
 - Monster
 
 
-### Q: Which one of these nations was added to Civilization V with the "Gods & Kings" expansion?
+### Q: Which one of these nations was added to Civilization V with the "Gods ô Kings" expansion?
 - **Correct Answer:** The Netherlands
 - The Zulu
 - The Ottomans
@@ -24417,13 +24119,6 @@
 - Kurt Cobain
 - Joey Belladonna
 - Dave Lombardo
-
-
-### Q: Which one of these Pink Floyd albums were also a movie?
-- **Correct Answer:** The Wall
-- The Dark Side of the Moon
-- Wish You Were Here
-- Animals
 
 
 ### Q: Which one of these Rammstein songs has two official music videos?
@@ -24470,7 +24165,7 @@
 
 ### Q: Which one of these Swedish companies was founded in 1943?
 - **Correct Answer:** IKEA
-- H & M
+- H ô M
 - Lindex
 - Clas Ohlson
 
@@ -24550,13 +24245,6 @@
 - Josuke Higashikata
 - Jolyne Cujoh
 - Johnny Joestar
-
-
-### Q: Which planet did the "Viking 1" spacecraft send surface images of, starting in 1976?
-- **Correct Answer:** Mars
-- Saturn
-- Jupiter
-- Venus
 
 
 ### Q: Which player "kung-fu kicked" a Crystal Palace fan in January 1995?
@@ -24790,6 +24478,13 @@
 - 7.62x51mm
 
 
+### Q: Which Russian author wrote the epic novel War and Peace?
+- **Correct Answer:** Leo Tolstoy
+- Fyodor Dostoyevsky
+- Alexander Pushkin
+- Vladimir Nabokov
+
+
 ### Q: Which Russian oblast forms a border with Poland?
 - **Correct Answer:** Kaliningrad
 - Samara
@@ -24833,7 +24528,7 @@
 
 
 ### Q: Which Shakespeare play inspired the musical 'West Side Story'?
-- **Correct Answer:** Romeo & Juliet
+- **Correct Answer:** Romeo ô Juliet
 - Hamlet
 - Macbeth
 - Othello
@@ -24874,7 +24569,7 @@
 - Joan Jett
 
 
-### Q: Which singer was featured in Jack Ü (Skrillex & Diplo)'s 2015 song 'Where Are Ü Now'?
+### Q: Which singer was featured in Jack ôUuml; (Skrillex ô Diplo)'s 2015 song 'Where Are ôUuml; Now'?
 - **Correct Answer:** Justin Bieber
 - Selena Gomez
 - Ellie Goulding
@@ -24893,13 +24588,6 @@
 - Why Pay More!?
 - Have It Your Way
 - Making People Happy Through Food
-
-
-### Q: Which small country is located between the borders of France and Spain?
-- **Correct Answer:** Andorra
-- San Marino
-- Vatican City
-- Lichtenstein
 
 
 ### Q: Which soccer player is featured on the cover of EA Sport's FIFA 18?
@@ -24982,12 +24670,12 @@
 ### Q: Which Sonic the Hedgehog game introudced Knuckles the Echidna?
 - **Correct Answer:** Sonic the Hedgehog 3
 - Sonic the Hedgehog 2
-- Sonic & Knuckles
+- Sonic ô Knuckles
 - Sonic Adventure
 
 
 ### Q: Which Sonic the Hedgehog game was originally supposed to be packaged with Sonic 3, but was cut in half due to time constraints?
-- **Correct Answer:** Sonic & Knuckles
+- **Correct Answer:** Sonic ô Knuckles
 - Sonic 2
 - Sonic CD
 - Sonic 3D Blast
@@ -25147,7 +24835,7 @@
 - The Bachelor
 
 
-### Q: Which time signature is commonly known as"Cut Time?"
+### Q: Which time signature is commonly known as "Cut Time?"
 - **Correct Answer:** 2/2
 - 4/4
 - 6/8
@@ -25197,17 +24885,17 @@
 
 
 ### Q: Which two modern-day countries used to be known as the region of Rhodesia between the 1890s and 1980?
-- **Correct Answer:** Zambia & Zimbabwe
-- Togo & Benin
-- Lesotho & Swaziland
-- Rwanda & Burundi
+- **Correct Answer:** Zambia ô Zimbabwe
+- Togo ô Benin
+- Lesotho ô Swaziland
+- Rwanda ô Burundi
 
 
 ### Q: Which two teams played in Super Bowl XLII?
-- **Correct Answer:** The New York Giants & The New England Patriots
-- The Green Bay Packers & The Pittsburgh Steelers
-- The Philadelphia Eagles & The New England Patriots
-- The Seattle Seahawks & The Denver Broncos
+- **Correct Answer:** The New York Giants ô The New England Patriots
+- The Green Bay Packers ô The Pittsburgh Steelers
+- The Philadelphia Eagles ô The New England Patriots
+- The Seattle Seahawks ô The Denver Broncos
 
 
 ### Q: Which type of rock is created by intense heat AND pressure?
@@ -25413,7 +25101,7 @@
 - Windows 95
 
 
-### Q: Who are the original creators of Rachet & Clank?
+### Q: Who are the original creators of Rachet ô Clank?
 - **Correct Answer:** Insomniac Games
 - PixelTail Games
 - Rare
@@ -25463,7 +25151,7 @@
 
 
 ### Q: Who composed the soundtrack for the game VVVVVV?
-- **Correct Answer:** Magnus Pålsson
+- **Correct Answer:** Magnus Pôaring;lsson
 - Terry Cavanagh
 - Danny Baranowsky
 - Joel Zimmerman
@@ -25481,13 +25169,6 @@
 - Professor Hertz Amadeus Schneider
 - Dr. Josef Mengele
 - Professor Otto Rothwinkler
-
-
-### Q: Who created the "Metal Gear" Series?
-- **Correct Answer:** Hideo Kojima
-- Hiroshi Yamauchi
-- Shigeru Miyamoto
-- Gunpei Yokoi
 
 
 ### Q: Who created the 2011 Video Game "Minecraft"?
@@ -25603,7 +25284,7 @@
 
 
 ### Q: Who directed the 2015 movie "The Revenant"?
-- **Correct Answer:** Alejandro G. Iñárritu
+- **Correct Answer:** Alejandro G. Iôntilde;ôaacute;rritu
 - Christopher Nolan
 - David Fincher
 - Wes Anderson
@@ -25767,7 +25448,7 @@
 - **Correct Answer:** Steve Reich
 - Wolfgang Amadeus Mozart
 - Brian Eno
-- Sigur Ró;s
+- Sigur Rôoacute;s
 
 
 ### Q: Who is attributed credit for recording the epic poem The Odyssey?
@@ -25854,6 +25535,13 @@
 - Dan Terminus 
 
 
+### Q: Who is the author of Jurrasic Park?
+- **Correct Answer:** Michael Crichton
+- Peter Benchley
+- Chuck Paluhniuk
+- Irvine Welsh
+
+
 ### Q: Who is the author of the manga series "Astro Boy"?
 - **Correct Answer:** Osamu Tezuka
 - Mitsuteri Yokoyama
@@ -25876,7 +25564,7 @@
 
 
 ### Q: Who is the chemical element Curium named after?
-- **Correct Answer:** Marie & Pierre Curie
+- **Correct Answer:** Marie ô Pierre Curie
 - The Curiosity Rover
 - Curious George
 - Stephen Curry
@@ -25901,13 +25589,6 @@
 - Yoshihiro Togashi
 - Hayao Miyazaki
 - Masashi Kishimoto
-
-
-### Q: Who is the creator of the soft drink, Dr. Pepper?
-- **Correct Answer:** Charles Alderton
-- James Wellington
-- Johnson Hinsin
-- Boris Heviltik
 
 
 ### Q: Who is the creator of the Super Smash Bros. Series?
@@ -26281,13 +25962,6 @@
 - John Rutsey
 
 
-### Q: Who is the protagonist in Dead Rising (2006)?
-- **Correct Answer:** Frank West
-- Chuck Greene
-- John North
-- Jason Grey
-
-
 ### Q: Who is the protagonist in the game "The Walking Dead: Season One"?
 - **Correct Answer:** Lee Everett
 - Clementine
@@ -26373,7 +26047,7 @@
 
 
 ### Q: Who made the discovery of X-rays?
-- **Correct Answer:** Wilhelm Conrad Röntgen
+- **Correct Answer:** Wilhelm Conrad Rôouml;ntgen
 - Thomas Alva Edison
 - James Watt
 - Albert Einstein
@@ -26415,17 +26089,17 @@
 
 
 ### Q: Who painted the Mona Lisa?
-- **Correct Answer:** Leonardo da Vinci 
-- Pablo Picasso
--  Vincent van Gogh
-- Michelangelo
-
-
-### Q: Who painted the Mona Lisa?
 - **Correct Answer:** Leonardo da Vinci
 - Pablo Picasso
 - Claude Monet
 - Vincent van Gogh
+
+
+### Q: Who painted the Mona Lisa?
+- **Correct Answer:** Leonardo da Vinci 
+- Pablo Picasso
+-  Vincent van Gogh
+- Michelangelo
 
 
 ### Q: Who painted the Sistine Chapel?
@@ -26508,7 +26182,7 @@
 ### Q: Who played Marquis de Lafayette and Thomas Jefferson in the original Broadway run of Hamilton?
 - **Correct Answer:** Daveed Diggs
 - Lin-Manuel Miranda
-- Javier Muñoz
+- Javier Muôntilde;oz
 - Wayne Brady
 
 
@@ -26775,7 +26449,7 @@
 - **Correct Answer:** Carl Douglas
 - The Bee Gees
 - Heatwave
-- Kool & the Gang
+- Kool ô the Gang
 
 
 ### Q: Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?
@@ -26786,7 +26460,7 @@
 
 
 ### Q: Who was Donald Trump's first wife?
-- **Correct Answer:** Ivana Zelníčková
+- **Correct Answer:** Ivana Zelnôiacute;čkovôaacute;
 - Melania Knauss
 - Marla Maples
 - Nancy Davis
@@ -27009,6 +26683,13 @@
 - George Michael
 
 
+### Q: Who was the leader of the Communist Party of Yugoslavia ?
+- **Correct Answer:** Josip Broz Tito
+- Karadjordje Petrovic
+- Milos Obilic
+- Aleskandar Petrovic
+
+
 ### Q: Who was the longest-serving senator in US history, serving from 1959 to 2010?
 - **Correct Answer:** Robert Byrd
 - Daniel Inouye
@@ -27018,7 +26699,7 @@
 
 ### Q: Who was the main antagonist of Max Payne 3 (2012)?
 - **Correct Answer:** Victor Branco
-- Álvaro Neves
+- ôAacute;lvaro Neves
 - Armando Becker
 - Milo Rego
 
@@ -27086,16 +26767,9 @@
 - Mercury
 
 
-### Q: Who was the star of the TV series "24"?
-- **Correct Answer:** Kiefer Sutherland
-- Kevin Bacon
-- Hugh Laurie
-- Rob Lowe
-
-
 ### Q: Who was the top scorer of the 2014 FIFA World Cup?
-- **Correct Answer:** James Rodríguez
-- Thomas Müller
+- **Correct Answer:** James Rodrôiacute;guez
+- Thomas Môuuml;ller
 - Lionel Messi
 - Neymar
 
@@ -27119,13 +26793,6 @@
 - David Hayter
 - Norman Reedus
 - Hideo Kojima
-
-
-### Q: Who was the winner of "Big Brother" Season 10?
-- **Correct Answer:** Dan Gheesling
-- Bryce Kranyik
-- Ryan Sutfin
-- Chris Mundorf
 
 
 ### Q: Who was the winner of the 2016 WWE Royal Rumble?
@@ -27322,13 +26989,6 @@
 - Tom Stoppard
 - Matthew Lopez
 - Anthony Neilson
-
-
-### Q: Who wrote the Sinead O`Connor hit 'Nothing Compares 2 U'?
-- **Correct Answer:** Prince
-- Michael Jackson
-- Cameo
-- Rick James
 
 
 ### Q: Who wrote the song "You Know You Like It"?
