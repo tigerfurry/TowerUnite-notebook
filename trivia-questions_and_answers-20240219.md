@@ -1989,6 +1989,13 @@
 - Final Fantasy II
 
 
+### Q: Finish these lyrics from the 2016 song "Panda" by Desiigner: "I got broads in _______".
+- **Correct Answer:** Atlanta
+- Savannah
+- Augusta
+- Marietta
+
+
 ### Q: Finnish Lapphund dogs were used for herding reindeer.
 - **Correct Answer:** True
 - False
@@ -5545,6 +5552,13 @@
 - Pack Leader
 
 
+### Q: In PROTOTYPE 2. who is referred to as "Tango Primary"?
+- **Correct Answer:** James Heller
+- Alex Mercer
+- Dana Mercer
+- Any Goliaths roaming around
+
+
 ### Q: In Psychology, which need appears highest in the "Maslow's hierarchy of needs" pyramid?
 - **Correct Answer:** Esteem
 - Love
@@ -8743,6 +8757,11 @@
 - Inception
 
 
+### Q: Leonardo DiCaprio won an Oscar for Best Actor in 2004's "The Aviator".
+- **Correct Answer:** False
+- True
+
+
 ### Q: Liam Howlett founded which electronic music group in 1990?
 - **Correct Answer:** The Prodigy
 - The Chemical Brothers
@@ -9591,6 +9610,13 @@
 - 1985
 - 1986
 - 1988
+
+
+### Q: Rincewind from the 1995 Discworld game was voiced by which member of Monty Python?
+- **Correct Answer:** Eric Idle
+- John Cleese
+- Terry Gilliam
+- Michael Palin
 
 
 ### Q: Ringo Starr of The Beatles mainly played what instrument?
@@ -10875,6 +10901,11 @@
 - Ankle
 
 
+### Q: The Hundred Years' War was fought for more than a hundred years.
+- **Correct Answer:** True
+- False
+
+
 ### Q: The Hunua Ranges is located in...
 - **Correct Answer:** New Zealand
 - Nepal
@@ -12149,13 +12180,6 @@
 ### Q: The Xenomorph from the science fiction film "Alien" has acidic blood.
 - **Correct Answer:** True
 - False
-
-
-### Q: The"fairy" type made it's debut in which generation of the Pokemon core series games?
-- **Correct Answer:** 6th
-- 2nd
-- 7th
-- 4th
 
 
 ### Q: The"fairy" type made it's debut in which generation of the Pokemon core series games?
@@ -14021,6 +14045,13 @@
 - 9
 
 
+### Q: What is the airspeed velocity of an unladen swallow?
+- **Correct Answer:** 24 MPH
+- 15 MPH
+- 20 MPH
+- 200 MPH
+
+
 ### Q: What is the AK-47's name in Counter Strike: Source?
 - **Correct Answer:** CV-47
 - AK-74
@@ -14502,6 +14533,13 @@
 - Smoke Weed 420 / Everyday
 - Make Your Move 420 / My Mind
 - It's All In Your Head 420 / Understand
+
+
+### Q: What is the exact length of one non-curved part in Lane 1 of an Olympic Track?
+- **Correct Answer:** 84.39m
+- 100m
+- 100yd
+- 109.36yd
 
 
 ### Q: What is the famous Papa John's last name?
@@ -15666,6 +15704,13 @@
 - Anna
 
 
+### Q: What is the name of the main character in the webcomic Gunnerkrigg Court by Tom Siddell?
+- **Correct Answer:** Antimony
+- Bismuth
+- Mercury
+- Cobalt
+
+
 ### Q: What is the name of the main character of the anime "One-Punch Man"?
 - **Correct Answer:** Saitama
 - Genos
@@ -15832,6 +15877,13 @@
 - USS North Carolina
 - USS Constitution
 - USS Indianapolis
+
+
+### Q: What is the name of the very first video uploaded to YouTube?
+- **Correct Answer:** Me at the zoo
+- tribute
+- carrie rides a truck
+- Her new puppy from great grandpa vern.
 
 
 ### Q: What is the name of the villian in the 2015 Russian-American Sci-Fi Movie "Hardcore Henry"?
@@ -17451,6 +17503,13 @@
 - Crashdown
 
 
+### Q: What was the capital of South Vietnam before the Vietnam War?
+- **Correct Answer:** Saigon
+- Ho Chi Minh City
+- Hanoi
+- Hue
+
+
 ### Q: What was the cause of death for Freddie Mercury?
 - **Correct Answer:** Pneumonia
 - Stomach Cancer
@@ -17883,6 +17942,13 @@
 - Soyuz 7K-OK
 - Zenit-2
 - Voskhod 3KV
+
+
+### Q: What was the name of the first Bulgarian personal computer?
+- **Correct Answer:** IMKO-1
+- Pravetz 82
+- Pravetz 8D
+- IZOT 1030
 
 
 ### Q: What was the name of the first front-wheel-drive car produced by Datsun (now Nissan)?
@@ -18422,6 +18488,13 @@
 - 1888
 - 1999
 - 2003
+
+
+### Q: What year is considered to be the year that the British Empire ended?
+- **Correct Answer:** 1997
+- 1986
+- 1981
+- 1971
 
 
 ### Q: What year is on the flag of the US state Wisconsin?
@@ -19330,6 +19403,13 @@
 - Bagshot
 
 
+### Q: Where did the dog breed "Chihuahua" originate?
+- **Correct Answer:** Mexico
+- France
+- Spain
+- Russia
+
+
 ### Q: Where did the Great Storm of 1987 make landfall at, first?
 - **Correct Answer:** Cornwall
 - Surrey
@@ -19958,6 +20038,13 @@
 - The Cure
 - New Order
 - Depeche Mode
+
+
+### Q: Which band released the album "Sonic Highways" in 2014?
+- **Correct Answer:** Foo Fighters
+- Coldplay
+- Nickelback
+- The Flaming Lips
 
 
 ### Q: Which basketball team has attended the most NBA grand finals?
@@ -21899,6 +21986,13 @@
 - Ratchet
 
 
+### Q: Which of the following awards do Matt Stone and Trey Parker NOT have?
+- **Correct Answer:** Oscar
+- Emmy
+- Tony
+- Grammy
+
+
 ### Q: Which of the following bands is Tom DeLonge not a part of?
 - **Correct Answer:** +44
 - Box Car Racer
@@ -22816,6 +22910,13 @@
 - SMART-1
 
 
+### Q: Which of the following sports is not part of the triathlon?
+- **Correct Answer:** Horse-Riding
+- Cycling
+- Swimming
+- Running
+
+
 ### Q: Which of the following superheros did Wonder Woman NOT have a love interest in?
 - **Correct Answer:** Green Arrow
 - Superman
@@ -22975,6 +23076,13 @@
 - Guinea
 - Cameroon
 - Angola
+
+
+### Q: Which of these albums is a Wu-Tang Clan album?
+- **Correct Answer:** Iron Flag
+- Perfect Hair
+- The Low End Theory
+- Licensed to Ill
 
 
 ### Q: Which of these aliases has NOT been used by electronic musician Aphex Twin?
@@ -23705,6 +23813,13 @@
 - Guangdong
 
 
+### Q: Which of these is not a real character in the cartoon series My Little Pony: Friendship is Magic?
+- **Correct Answer:** Rose Marene
+- Pinkie Pie
+- Maud Pie
+- Rainbow Dash
+
+
 ### Q: Which of these is NOT a real tectonic plate?
 - **Correct Answer:** Atlantic Plate
 - North American Plate
@@ -24356,6 +24471,13 @@
 - Netherlands
 
 
+### Q: Which one of these films are shot entirely in one-take?
+- **Correct Answer:** Russian Ark
+- Good Will Hunting
+- Birdman
+- Schindler's List
+
+
 ### Q: Which one of these games came out first?
 - **Correct Answer:** Terraria
 - Minecraft
@@ -24802,6 +24924,13 @@
 - .308
 - 7.62
 - 7.62x51mm
+
+
+### Q: Which Russian author wrote the epic novel War and Peace?
+- **Correct Answer:** Leo Tolstoy
+- Fyodor Dostoyevsky
+- Alexander Pushkin
+- Vladimir Nabokov
 
 
 ### Q: Which Russian oblast forms a border with Poland?
@@ -25866,6 +25995,13 @@
 - Carpenter Brut
 - GOST
 - Dan Terminus 
+
+
+### Q: Who is the author of Jurrasic Park?
+- **Correct Answer:** Michael Crichton
+- Peter Benchley
+- Chuck Paluhniuk
+- Irvine Welsh
 
 
 ### Q: Who is the author of the manga series "Astro Boy"?
@@ -27021,6 +27157,13 @@
 - Chris Martin
 - Thom Yorke
 - George Michael
+
+
+### Q: Who was the leader of the Communist Party of Yugoslavia ?
+- **Correct Answer:** Josip Broz Tito
+- Karadjordje Petrovic
+- Milos Obilic
+- Aleskandar Petrovic
 
 
 ### Q: Who was the longest-serving senator in US history, serving from 1959 to 2010?
