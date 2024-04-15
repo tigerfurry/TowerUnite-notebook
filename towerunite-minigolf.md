@@ -5,7 +5,6 @@ tower unite minigolf 部分点位图，主要记录 hole in one
 # forest
 
 ## HOLE 1
-![towerunite-minigolf-forest-hole1.jpg](/images/towerunite-minigolf-forest-hole1.jpg)
 
 ## HOLE 2
 ![towerunite-minigolf-forest-hole2.jpg](/images/towerunite-minigolf-forest-hole2.jpg)
