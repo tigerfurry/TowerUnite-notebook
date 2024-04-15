@@ -5,13 +5,13 @@ tower unite minigolf 部分点位图，主要记录 hole in one
 # forest
 
 ## HOLE 1
-![towerunite-minigolf-forest-hole1.jpg](\images\towerunite-minigolf-forest-hole1.jpg)
+![towerunite-minigolf-forest-hole1.jpg](/images/towerunite-minigolf-forest-hole1.jpg)
 
 ## HOLE 2
-![towerunite-minigolf-forest-hole2.jpg](\images\towerunite-minigolf-forest-hole2.jpg)
+![towerunite-minigolf-forest-hole2.jpg](/images/towerunite-minigolf-forest-hole2.jpg)
 
 ## HOLE 3
-![towerunite-minigolf-forest-hole3.jpg](\images\towerunite-minigolf-forest-hole3.jpg)
+![towerunite-minigolf-forest-hole3.jpg](/images/towerunite-minigolf-forest-hole3.jpg)
 
 ## HOLE 4
 
@@ -22,22 +22,22 @@ tower unite minigolf 部分点位图，主要记录 hole in one
 ## HOLE 7
 
 ## HOLE 8
-![towerunite-minigolf-forest-hole8.jpg](\images\towerunite-minigolf-forest-hole8.jpg)
+![towerunite-minigolf-forest-hole8.jpg](/images/towerunite-minigolf-forest-hole8.jpg)
 
 ## HOLE 9
 
 ## HOLE 10
-![towerunite-minigolf-forest-hole10.jpg](\images\towerunite-minigolf-forest-hole10.jpg)
+![towerunite-minigolf-forest-hole10.jpg](/images/towerunite-minigolf-forest-hole10.jpg)
 
 ## HOLE 11
 
 ## HOLE 12
-![towerunite-minigolf-forest-hole12.jpg](\images\towerunite-minigolf-forest-hole12.jpg)
+![towerunite-minigolf-forest-hole12.jpg](/images/towerunite-minigolf-forest-hole12.jpg)
 
 ## HOLE 13
 
 ## HOLE 14
-![towerunite-minigolf-forest-hole14.jpg](\images\towerunite-minigolf-forest-hole14.jpg)
+![towerunite-minigolf-forest-hole14.jpg](/images/towerunite-minigolf-forest-hole14.jpg)
 
 ## HOLE 15
 
