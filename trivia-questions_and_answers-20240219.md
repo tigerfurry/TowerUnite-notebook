@@ -1,6 +1,13 @@
 # Questions and Answers
 
 
+### Q: '74–'75 is a 1993 single from the album Ring by what American band?
+- **Correct Answer:** The Connells
+- R.E.M.
+- The Ocean Blue
+- The Bangles
+
+
 ### Q: "27 Club" is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.
 - **Correct Answer:** True
 - False
@@ -331,13 +338,6 @@
 - John Kerry
 - Barack Obama
 - Al Gore
-
-
-### Q: '74–'75 is a 1993 single from the album Ring by what American band?
-- **Correct Answer:** The Connells
-- R.E.M.
-- The Ocean Blue
-- The Bangles
 
 
 ### Q: .at is the top-level domain for what country?
@@ -1018,11 +1018,6 @@
 - False
 
 
-### Q: An octopus can fit through any hole larger than its beak.
-- **Correct Answer:** True
-- False
-
-
 ### Q: An organic compound is considered an alcohol if it has what functional group?
 - **Correct Answer:** Hydroxyl
 - Carbonyl
@@ -1102,11 +1097,6 @@
 - Arizona
 - New Mexico
 - Utah
-
-
-### Q: Arriva is owned by the Deutsche Bahn.
-- **Correct Answer:** True
-- False
 
 
 ### Q: Artis Leon Ivey Jr. is better known as which rap artist?
@@ -1667,6 +1657,11 @@
 - True
 
 
+### Q: Dihydrogen Monoxide is a dangerous chemical.
+- **Correct Answer:** False
+- True
+
+
 ### Q: Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.
 - **Correct Answer:** False
 - True
@@ -1761,13 +1756,6 @@
 - False
 
 
-### Q: During the events of Half-Life: Opposing Force, what is the age of Adrian Shephard, the protagonist?
-- **Correct Answer:** 22
-- 23
-- 21
-- 24
-
-
 ### Q: During the game's development, what was the first ever created Pokémon?
 - **Correct Answer:** Rhyhorn
 - Bulbasaur
@@ -1825,13 +1813,6 @@
 ### Q: During Wimbledon, spectators in the grounds can buy the tennis balls that have been used in matches.
 - **Correct Answer:** True
 - False
-
-
-### Q: During World War I, which nation's monarchs were blood related?
-- **Correct Answer:** England, Germany, Russia
-- France, Russia, Germany
-- Serbia, Russia, Croatia
-- Germany, Spain, Austria
 
 
 ### Q: During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?
@@ -1905,7 +1886,7 @@
 
 ### Q: Electronic artists Boys Noize and Skrillex have collaborated and released tracks under what name?
 - **Correct Answer:** Dog Blood
-- Jack Ü
+- Jack ü
 - What So Not
 - Noisia
 
@@ -2153,18 +2134,6 @@
 - France
 
 
-### Q: Fucking is a village in which country?
-- **Correct Answer:** Austria
-- Germany
-- Switzerland
-- Czech Republic
-
-
-### Q: Furby was released in 1998.
-- **Correct Answer:** True
-- False
-
-
 ### Q: Gabe Newell was born in which year?
 - **Correct Answer:** 1962 
 - 1970
@@ -2290,11 +2259,6 @@
 - Lily
 - French
 - Dakota
-
-
-### Q: Haggis is traditionally ate on Burns Night.
-- **Correct Answer:** True
-- False
 
 
 ### Q: Half-Life by Valve uses the GoldSrc game engine, which is a highly modified version of what engine?
@@ -2428,10 +2392,10 @@
 
 
 ### Q: How many "JoJos" that are protagonists are there in the series "Jojo's Bizarre Adventure"?
-- **Correct Answer:** 8
-- 6
-- 4
-- 5
+- **Correct Answer:** 8+
+- 6+
+- 4+
+- 5+
 
 
 ### Q: How many aces can be shot down through the entirety of "Ace Combat Zero: The Belkan War"?
@@ -2460,13 +2424,6 @@
 - 8
 - 10
 - 17
-
-
-### Q: How many books are in the Chronicles of Narnia series?
-- **Correct Answer:** 7
-- 6
-- 8
-- 5
 
 
 ### Q: How many bytes are in a single Kibibyte?
@@ -2572,13 +2529,6 @@
 - 3
 - 1
 - 6
-
-
-### Q: How many countries does Mexico border?
-- **Correct Answer:** 3
-- 2
-- 4
-- 1
 
 
 ### Q: How many countries does Spain have a land border with?
@@ -2698,6 +2648,13 @@
 - 8
 - 5
 - 6
+
+
+### Q: How many heads does Cerberus have?
+- **Correct Answer:** 3
+- 2
+- 1
+- 5
 
 
 ### Q: How many Hz does the video standard PAL support?
@@ -2957,13 +2914,6 @@
 - 10
 - 2
 - 7
-
-
-### Q: How many seasons did the Sci-Fi television show "Stargate Universe" have?
-- **Correct Answer:** 2
-- 10
-- 5
-- 3
 
 
 ### Q: How many seasons did the TV show "Donkey Kong Country" last?
@@ -3317,10 +3267,10 @@
 
 
 ### Q: How tall is Tom Cruise?
-- **Correct Answer:** 5' 7"
-- 5' 9"
-- 5' 4"
-- 5' 5"
+- **Correct Answer:** 5' 7'
+- 5' 9'
+- 5' 4'
+- 5' 5'
 
 
 ### Q: How was Socrates executed?
@@ -3439,6 +3389,11 @@
 - Another One
 - Blazer
 - Princess
+
+
+### Q: IMAX stands for Image Maximum.
+- **Correct Answer:** True
+- False
 
 
 ### Q: In "A Certain Magical Index," what is Accelerator able to control?
@@ -3889,6 +3844,13 @@
 - True
 
 
+### Q: In "Mean Girls", who has breasts that tell when it's raining?
+- **Correct Answer:** Karen Smith
+- Gretchen Weiners
+- Janice Ian
+- Cady Heron
+
+
 ### Q: In "Minecraft", gold tools are faster than diamond tools.
 - **Correct Answer:** True
 - False
@@ -3904,7 +3866,7 @@
 ### Q: In "Need for Speed III: Hot Pursuit", what is the name of the fictional car?
 - **Correct Answer:** El Niño
 - Rápido
-- Ágil
+- ágil
 - La Niña
 
 
@@ -4133,11 +4095,6 @@
 ### Q: In "Star Trek", Klingons are commonly referred to as "Black Elves".
 - **Correct Answer:** False
 - True
-
-
-### Q: In "Star Trek", Klingons respect William Shakespeare, they even suspect him having a Klingon lineage.
-- **Correct Answer:** True
-- False
 
 
 ### Q: In "Star Trek", what is the Ferengi's First Rule of Acquisition?
@@ -4412,11 +4369,6 @@
 - Hicksville, New York
 - Jacksonville, Florida
 - Conway, Arkansas
-
-
-### Q: In 1967, a magazine published a story about extracting hallucinogenic chemicals from bananas to raise moral questions about banning drugs.
-- **Correct Answer:** True
-- False
 
 
 ### Q: In 1978, Superman teamed up with what celebrity, to defeat an alien invasion?
@@ -4880,6 +4832,13 @@
 - Komaru Naegi
 
 
+### Q: In DC comics where does the Green Arrow (Oliver Queen) live?
+- **Correct Answer:** Star City
+- Central City
+- Gotham City
+- Metropolis
+
+
 ### Q: In Diablo lore, this lesser evil spawned from one of the seven heads of Tathamet, and was known as the Maiden of Anguish.
 - **Correct Answer:** Andariel
 - Valla
@@ -5091,11 +5050,23 @@
 - False
 
 
+### Q: In Half-Life, what is the name of the alien that attaches to heads?
+- **Correct Answer:** Headcrab
+- Bullsquid
+- Vortigaunt
+- Facehugger
+
+
 ### Q: In Halo 2, how many rounds does the M6C hold in a single magazine?
 - **Correct Answer:** 12
 - 6
 - 36
 - 18
+
+
+### Q: In Harry Potter and the Deathly Hallows, Hermione destroyed the fourth Horcrux by stabbing it with the Sword of Gryffindor.
+- **Correct Answer:** False
+- True
 
 
 ### Q: In Heroes of the Storm, the Cursed Hollow map gimmick requires players to kill the undead to curse the enemy team.
@@ -5239,13 +5210,6 @@
 - Shielding
 
 
-### Q: In Magic: The Gathering, what was a tribute card to Jamie Wakefield's late wife Marilyn, who loved horses?
-- **Correct Answer:** Timbermare
-- Loyal Pegasus
-- Vryn Wingmare
-- Sungrace Pegasus
-
-
 ### Q: In Magic: The Gathering, which of the following was the first publicly released foil card?
 - **Correct Answer:** Lightning Dragon
 - Revenant
@@ -5265,13 +5229,6 @@
 - Scorpio
 - Tiger Mafia
 - The Union
-
-
-### Q: In Mean Girls, who has breasts that tell when it's raining?
-- **Correct Answer:** Karen Smith
-- Gretchen Weiners
-- Janice Ian
-- Cady Heron
 
 
 ### Q: In Michael Crichton's novel "Jurassic Park", John Hammond meets his demise at the claws of which dinosaur?
@@ -5443,27 +5400,6 @@
 - Carnot's Theorem
 
 
-### Q: In Pokemon Diamond, Pearl and Platinum, where can a Munchlax be found?
-- **Correct Answer:** Honey Trees
-- Trading with an NPC
-- Grass on Route 209
-- Wayward Cave
-
-
-### Q: In Pokemon Red & Blue, what is the name of HM05?
-- **Correct Answer:** Flash
-- Strength
-- Cut
-- Fly
-
-
-### Q: In Pokemon, the ability Wonder Guard is exclusive to which Pokemon? 
-- **Correct Answer:** Shedinja 
-- Sableye
-- Spiritomb
-- Silvally 
-
-
 ### Q: In Pokémon Chronicles, why was Misty afraid of Gyarados?
 - **Correct Answer:** She crawled into it's mouth as a baby.
 - She found it scary.
@@ -5489,6 +5425,27 @@
 ### Q: In Pokémon, Bulbasaur is the only starter pokemon that is a Grass/Poison type.
 - **Correct Answer:** True
 - False
+
+
+### Q: In Pokemon Diamond, Pearl and Platinum, where can a Munchlax be found?
+- **Correct Answer:** Honey Trees
+- Trading with an NPC
+- Grass on Route 209
+- Wayward Cave
+
+
+### Q: In Pokemon Red & Blue, what is the name of HM05?
+- **Correct Answer:** Flash
+- Strength
+- Cut
+- Fly
+
+
+### Q: In Pokemon, the ability Wonder Guard is exclusive to which Pokemon? 
+- **Correct Answer:** Shedinja 
+- Sableye
+- Spiritomb
+- Silvally 
 
 
 ### Q: In Portal 2, how did CEO of Aperture Science, Cave Johnson, presumably die?
@@ -5626,7 +5583,7 @@
 - 5
 
 
-### Q: In Scandinavian languages, the letter Å means river.
+### Q: In Scandinavian languages, the letter å means river.
 - **Correct Answer:** True
 - False
 
@@ -5730,6 +5687,13 @@
 - Luigi
 - Yoshi
 - Bowser
+
+
+### Q: In Super Mario RPG: Legend of The Seven Stars, what is Geno's real name?
+- **Correct Answer:** ♡♪!?
+- Geno
+- Exor
+- Smithy
 
 
 ### Q: In Super Smash Bros. for Nintendo 3DS and Nintendo Wii U, who was the sixth fighter to be added to the game post-launch?
@@ -5887,11 +5851,6 @@
 - Gohan
 - Vegeta
 - Bardock
-
-
-### Q: In the "Half-Life" series, "H.E.V" stands for "Hazardous Evasiveness Vest"
-- **Correct Answer:** False
-- True
 
 
 ### Q: In the "Halo" franchise, in what country is New Mombasa?
@@ -6555,13 +6514,6 @@
 - Raccoonus Teachus
 
 
-### Q: In the first Left 4 Dead, you can play as either of these four characters.
-- **Correct Answer:** Francis, Bill, Zoey, and Louis
-- Bender, Andrew, Allison, and Brian
-- Coach, Ellis, Nick, and Rochelle
-- Harry, Ron, Hermione and Dumbledore
-
-
 ### Q: In the Friday The 13th series, what is Jason's mother's first name?
 - **Correct Answer:** Pamela
 - Mary
@@ -6970,13 +6922,6 @@
 - Shiv
 
 
-### Q: In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?
-- **Correct Answer:** Ulgrotha
-- Bant
-- Llanowar
-- Tazeem
-
-
 ### Q: In the Mario Kart and Smash Bros. Games, Princess Rosalina is considered what weight class?
 - **Correct Answer:** Heavy
 - Medium
@@ -7038,6 +6983,13 @@
 - C
 
 
+### Q: In the movie "The Iron Giant,"this character is the protagonist.
+- **Correct Answer:** Hogarth Hughes
+- Kent Mansley
+- Dean McCoppin
+- Annie Hughes
+
+
 ### Q: In the movie "Back to the Future," what speed does Doc Brown's DeLorean need to reach in order to travel through time?
 - **Correct Answer:** 88 mph
 - 77 mph
@@ -7090,13 +7042,6 @@
 ### Q: In the movie The Revenant, DiCaprio's character hunts down the killer of his son.
 - **Correct Answer:** True
 - False
-
-
-### Q: In the movie"The Iron Giant," this character is the protagonist.
-- **Correct Answer:** Hogarth Hughes
-- Kent Mansley
-- Dean McCoppin
-- Annie Hughes
 
 
 ### Q: In the Naruto manga, what is the last name of Tsunade?
@@ -7344,6 +7289,13 @@
 - ORN Empire
 
 
+### Q: In the show 'Doctor Who', what is the name of the time-capsule model stolen by 'the Doctor'?
+- **Correct Answer:** TT Type 40, Mark 3 (TARDIS)
+- TT Type 1, Mark 3 (TARDIS)
+- TT Type 40, Mark 5 (TARDIS)
+- TT Type 1, Mark 5 (TARDIS)
+
+
 ### Q: In the show "Dragonball Z", what is the name of Cell's most powerful attack?
 - **Correct Answer:** Solar Kamehameha
 - Super Kamehameha
@@ -7393,13 +7345,6 @@
 - Pam Beesly
 
 
-### Q: In the show 'Doctor Who', what is the name of the time-capsule model stolen by 'the Doctor'?
-- **Correct Answer:** TT Type 40, Mark 3 (TARDIS)
-- TT Type 1, Mark 3 (TARDIS)
-- TT Type 40, Mark 5 (TARDIS)
-- TT Type 1, Mark 5 (TARDIS)
-
-
 ### Q: In the show Stranger Things, what is Eleven's favorite breakfast food?
 - **Correct Answer:** Eggo Waffles
 - Toast
@@ -7421,7 +7366,7 @@
 - Cold War
 
 
-### Q: In the song"The Ultimate Showdown of Ultimate Destiny," who is the only one to survive the battle?
+### Q: In the song "The Ultimate Showdown of Ultimate Destiny,"who is the only one to survive the battle?
 - **Correct Answer:** Mr. Rogers
 - Batman
 - Chuck Norris
@@ -7433,6 +7378,13 @@
 - Blue
 - Red
 - Purple
+
+
+### Q: In the Super Mario Bros. Movie (2023), who plays Toad?
+- **Correct Answer:** Keegan-Michael Key
+- Seth Rogan
+- Charlie Day
+- Jack Black
 
 
 ### Q: In the Super Mario Bros. series, what game is the  "Carrot" power-up from?
@@ -7447,6 +7399,11 @@
 - Yoshi
 - T. Yoshisotop Munchakoopas
 - Yossy
+
+
+### Q: In the Super Mario series, the character Pauline is a Princess like Princess Peach.
+- **Correct Answer:** False
+- True
 
 
 ### Q: In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?
@@ -7503,18 +7460,18 @@
 - False
 
 
+### Q: In the TV show 'M*A*S*H', what was the nickname of Corporal Walter O'Reilly?
+- **Correct Answer:** Radar
+- Hawkeye
+- Hot Lips
+- Trapper
+
+
 ### Q: In the TV show "Cheers", Sam Malone was a former relief pitcher for which baseball team?
 - **Correct Answer:** Boston Red Sox
 - New York Mets
 - Baltimore Orioles
 - Milwaukee Brewers
-
-
-### Q: In the TV Show "Donkey Kong Country", which episode did the song "Eddie, Let Me Go Back To My Home" play in?
-- **Correct Answer:** It's a Wonderful Life
-- Message In A Bottle Show
-- To The Moon Baboon
-- Ape-Nesia
 
 
 ### Q: In the TV show "Mad Men", what was Donald Draper's birthname?
@@ -7529,13 +7486,6 @@
 - I pray that my life ends soon.
 - Lets get this party started!
 - I am suffering, please help me.
-
-
-### Q: In the TV show 'M*A*S*H', what was the nickname of Corporal Walter O'Reilly?
-- **Correct Answer:** Radar
-- Hawkeye
-- Hot Lips
-- Trapper
 
 
 ### Q: In the video game "League of Legends" which character is known as "The Sinister Blade"?
@@ -7595,6 +7545,13 @@
 - Hanzo
 - Pharah
 - Soldier: 76
+
+
+### Q: In the video game Undertale, what Fun Value is required to obtain the Fake Hallway?
+- **Correct Answer:** 66
+- 91
+- 45
+- 39
 
 
 ### Q: In the video game, Half-life, what event started the Half-life universe as we know today?
@@ -8480,11 +8437,6 @@
 - True
 
 
-### Q: Israel is 7 hours ahead of New York.
-- **Correct Answer:** True
-- False
-
-
 ### Q: It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.
 - **Correct Answer:** False
 - True
@@ -8695,11 +8647,6 @@
 - True
 
 
-### Q: Lady Gaga's real name is Stefani Joanne Angelina Germanotta.
-- **Correct Answer:** True
-- False
-
-
 ### Q: Lake Titicaca is located between which two nations?
 - **Correct Answer:** Peru and Bolivia
 - Kenya and Uganda
@@ -8832,11 +8779,6 @@
 - False
 
 
-### Q: MacOS is based on Linux.
-- **Correct Answer:** False
-- True
-
-
 ### Q: Madonna's song "Hung Up" includes a piece from which popular 70s song?
 - **Correct Answer:** Gimmie! Gimmie! Gimme! (A Man After Midnight)
 - Staying Alive
@@ -8904,7 +8846,7 @@
 - True
 
 
-### Q: Michael Jackson had a pet python named ‘Crusher'.
+### Q: Michael Jackson had a pet python named 'Crusher'.
 - **Correct Answer:** True
 - False
 
@@ -8974,11 +8916,6 @@
 - Epimysium
 - Myofiaments
 - Myocardium
-
-
-### Q: Muse is a British (English) rock band
-- **Correct Answer:** True
-- False
 
 
 ### Q: Musical artist, Future, collaborated with Kendrick Lamar for the song: "Mask Off".
@@ -9087,6 +9024,11 @@
 ### Q: Nintendo started out as a playing card manufacturer.
 - **Correct Answer:** True
 - False
+
+
+### Q: Nintendo's Luigi was originally just called Green Mario?
+- **Correct Answer:** False
+- True
 
 
 ### Q: No Game No Life first aired in 2014.
@@ -9385,13 +9327,6 @@
 - None of the Above
 
 
-### Q: Out of the 3 Tots in Tots TV, who speaks French in the UK Version and Spanish in the US Version?
-- **Correct Answer:** Tilly
-- Tom
-- Tiny
-- None of the Above
-
-
 ### Q: Oxford University is older than the Aztec Empire. 
 - **Correct Answer:** True
 - False
@@ -9520,6 +9455,13 @@
 - True
 
 
+### Q: Prior to his appearance in Super Smash Bros. Ultimate, What was King K. Rool's last appearance in any game?
+- **Correct Answer:** Mario Super Sluggers
+- Donkey Kong 64
+- Donkey Kong Country 3
+- Donkey Kong: King Of Swing
+
+
 ### Q: Prior to working at Wizards of the Coast, "Mark Rosewater" was a writer for which show?
 - **Correct Answer:** Roseanne
 - Boy Meets World
@@ -9539,17 +9481,17 @@
 - False
 
 
-### Q: Rabbits are carnivores.
-- **Correct Answer:** False
-- True
-
-
 ### Q: Rabbits are rodents.
 - **Correct Answer:** False
 - True
 
 
 ### Q: Rabbits can see what's behind themselves without turning their heads.
+- **Correct Answer:** True
+- False
+
+
+### Q: Rabbits can't vomit.
 - **Correct Answer:** True
 - False
 
@@ -9775,7 +9717,7 @@
 - False
 
 
-### Q: Skateboarding will be included in the 2020 Summer Olympics in Tokyo.
+### Q: Skateboarding was included in the 2020 Summer Olympics in Tokyo.
 - **Correct Answer:** True
 - False
 
@@ -9932,6 +9874,53 @@
 - No code
 
 
+### Q: The '64' in the Nintendo-64 console refers to what?
+- **Correct Answer:** The bits in the CPU architecture
+- The number of megabytes of RAM
+- Capacity of the ROM Cartridges in megabytes
+- Clock speed of the CPU in Hertz
+
+
+### Q: The 'D' in the term "D-Mail" from the game "Steins; Gate" is short for what?
+- **Correct Answer:** DeLorean
+- Deep
+- Demo
+- Dev
+
+
+### Q: The 'In the Flesh' tour was used in support of what Pink Floyd album?
+- **Correct Answer:** Animals
+- The Wall
+- Wish You Were Here
+- The Final Cut
+
+
+### Q: The 'Islets of Langerhans' is found in which human organ?
+- **Correct Answer:** Pancreas
+- Kidney
+- Liver
+- Brain
+
+
+### Q: The 'Squaring the Circle' problem is solvable.
+- **Correct Answer:** False
+- True
+
+
+### Q: The "fairy"type made it's debut in which generation of the Pokemon core series games?
+- **Correct Answer:** 6th
+- 2nd
+- 7th
+- 4th
+
+
+### Q: The "fairy"type made it's debut in which generation of the Pokemon core series games?
+- **Correct Answer:** 6th
+- 2nd
+- 7th
+- 4th
+
+
 ### Q: The "Berenstein Bears" is the correct spelling of the educational children's book series' name.
 - **Correct Answer:** False
 - True
@@ -9994,39 +9983,6 @@
 - Harry S. Truman
 - Martin Van Buren
 - John Quincy Adams
-
-
-### Q: The '64' in the Nintendo-64 console refers to what?
-- **Correct Answer:** The bits in the CPU architecture
-- The number of megabytes of RAM
-- Capacity of the ROM Cartridges in megabytes
-- Clock speed of the CPU in Hertz
-
-
-### Q: The 'D' in the term "D-Mail" from the game "Steins; Gate" is short for what?
-- **Correct Answer:** DeLorean
-- Deep
-- Demo
-- Dev
-
-
-### Q: The 'In the Flesh' tour was used in support of what Pink Floyd album?
-- **Correct Answer:** Animals
-- The Wall
-- Wish You Were Here
-- The Final Cut
-
-
-### Q: The 'Islets of Langerhans' is found in which human organ?
-- **Correct Answer:** Pancreas
-- Kidney
-- Liver
-- Brain
-
-
-### Q: The 'Squaring the Circle' problem is solvable.
-- **Correct Answer:** False
-- True
 
 
 ### Q: The 1939 movie "The Wizard of Oz" contained a horse that changed color, what material did they use to achieve this effect?
@@ -10493,7 +10449,7 @@
 - Absolute Zero (Both F and C)
 
 
-### Q: The country song "A Boy Named Sue" was written by Shel Silverstein.
+### Q: The country song  "A Boy Named Sue"was written by Shel Silverstein.
 - **Correct Answer:** True
 - False
 
@@ -10685,11 +10641,6 @@
 - 1999
 
 
-### Q: The first Maxis game to feature the fictional language "Simlish" was The Sims (2000).
-- **Correct Answer:** False
-- True
-
-
 ### Q: The first televised presidential debate was between Jimmy Carter and Gerald Ford.
 - **Correct Answer:** False
 - True
@@ -10745,7 +10696,7 @@
 - False
 
 
-### Q: The French mathematician Évariste Galois is primarily known for his work in which?
+### Q: The French mathematician évariste Galois is primarily known for his work in which?
 - **Correct Answer:** Galois Theory
 - Galois' Continued Fractions
 - Galois' Method for PDE's 
@@ -11190,13 +11141,6 @@
 - False
 
 
-### Q: The manga JoJo's Bizarre Adventure is split into how many parts?
-- **Correct Answer:** 8
-- 6
-- 4
-- 3
-
-
 ### Q: The Mann Co. Store from Team Fortress 2 has the slogan "We hire mercenaries and get in fights".
 - **Correct Answer:** False
 - True
@@ -11388,7 +11332,7 @@
 - Fumihiko Maki
 
 
-### Q: The New York Times slogan is,"All the News That's Fit to…"
+### Q: The New York Times slogan is, "All the News That's Fit to…"
 - **Correct Answer:** Print
 - Digest
 - Look
@@ -11566,16 +11510,16 @@
 - 5th
 
 
-### Q: The programming language "Python" is based off a modified version of "JavaScript".
-- **Correct Answer:** False
-- True
-
-
 ### Q: The programming language 'Swift' was created to replace what other programming language?
 - **Correct Answer:** Objective-C
 - C#
 - Ruby
 - C++
+
+
+### Q: The programming language "Python" is based off a modified version of "JavaScript".
+- **Correct Answer:** False
+- True
 
 
 ### Q: The proof for the Chinese Remainder Theorem used in Number Theory was NOT developed by its first publisher, Sun Tzu.
@@ -11742,6 +11686,13 @@
 - Pius III
 
 
+### Q: The song 'Little April Shower' features in which Disney cartoon film?
+- **Correct Answer:** Bambi
+- Cinderella
+- Pinocchio
+- The Jungle Book
+
+
 ### Q: The song "Caramelldansen" is commonly mistaken as a Japanese song, what language is the song actually sung in?
 - **Correct Answer:** Swedish
 - Hungarian
@@ -11776,13 +11727,6 @@
 - Twenty One Pilots
 - The Wonder Years
 - The Smith Street Band
-
-
-### Q: The song 'Little April Shower' features in which Disney cartoon film?
-- **Correct Answer:** Bambi
-- Cinderella
-- Pinocchio
-- The Jungle Book
 
 
 ### Q: The song Scatman's World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).
@@ -11831,7 +11775,7 @@
 - False
 
 
-### Q: The Statue of Liberty's official name is"Liberty Enlightening the World".
+### Q: The Statue of Liberty's official name is "Liberty Enlightening the World".
 - **Correct Answer:** True
 - False
 
@@ -12182,13 +12126,6 @@
 - False
 
 
-### Q: The"fairy" type made it's debut in which generation of the Pokemon core series games?
-- **Correct Answer:** 6th
-- 2nd
-- 7th
-- 4th
-
-
 ### Q: Theodore Roosevelt Jr. was the only General involved in the initial assault on D-Day.
 - **Correct Answer:** True
 - False
@@ -12282,7 +12219,7 @@
 - Hydrogen
 
 
-### Q: This field is sometimes known as"The Dismal Science."
+### Q: This field is sometimes known as "The Dismal Science."
 - **Correct Answer:** Economics
 - Philosophy
 - Politics
@@ -12748,13 +12685,6 @@
 - Strong Sad
 - Strong Mad
 - Strong Glad
-
-
-### Q: What animation studio produced "Gurren Lagann"?
-- **Correct Answer:** Gainax
-- Kyoto Animation
-- Pierrot
-- A-1 Pictures
 
 
 ### Q: What are human nails made of?
@@ -13387,20 +13317,6 @@
 - Secure System Disk
 
 
-### Q: What does the "G" mean in "G-Man"?
-- **Correct Answer:** Government
-- Going
-- Ghost
-- Geronimo
-
-
-### Q: What does the "MP" stand for in MP3?
-- **Correct Answer:** Moving Picture
-- Music Player
-- Multi Pass
-- Micro Point
-
-
 ### Q: What does the 'S' in the RSA encryption algorithm stand for?
 - **Correct Answer:** Shamir
 - Secure
@@ -13413,6 +13329,20 @@
 - Single
 - Secure
 - Solid
+
+
+### Q: What does the "G" mean in "G-Man"?
+- **Correct Answer:** Government
+- Going
+- Ghost
+- Geronimo
+
+
+### Q: What does the "MP" stand for in MP3?
+- **Correct Answer:** Moving Picture
+- Music Player
+- Multi Pass
+- Micro Point
 
 
 ### Q: What does the acronym CDN stand for in terms of networking?
@@ -13429,13 +13359,6 @@
 - Just Virtual Machine
 
 
-### Q: What does the International System of Quantities refer 1024 bytes as?
-- **Correct Answer:** Kibibyte
-- Kylobyte
-- Kilobyte
-- Kelobyte
-
-
 ### Q: What does the Latin phrase "Veni, vidi, vici" translate into English?
 - **Correct Answer:** I came, I saw, I conquered
 - See no evil, hear no evil, speak no evil
@@ -13448,13 +13371,6 @@
 - Science
 - Society
 - Star
-
-
-### Q: What does the Prt Sc button do?
-- **Correct Answer:** Captures what's on the screen and copies it to your clipboard
-- Nothing
-- Saves a .png file of what's on the screen in your screenshots folder in photos
-- Closes all windows
 
 
 ### Q: What does the term "isolation" refer to in microbiology?
@@ -14027,7 +13943,7 @@
 ### Q: What is the 15th letter of the Greek alphabet?
 - **Correct Answer:** Omicron (Ο)
 - Sigma (Σ)
-- Pi (Π)
+- Pi (π)
 - Nu (Ν)
 
 
@@ -14472,6 +14388,13 @@
 - Heat Vent
 
 
+### Q: What is the county seat of King County, Washington?
+- **Correct Answer:** Seattle
+- Bellevue
+- Enumclaw
+- Skykomish
+
+
 ### Q: What is the currency of Poland?
 - **Correct Answer:** Złoty
 - Ruble
@@ -14605,13 +14528,6 @@
 - Numbers
 
 
-### Q: What is the first element on the periodic table?
-- **Correct Answer:** Hydrogen
-- Helium
-- Oxygen
-- Lithium
-
-
 ### Q: What is the first Mersenne prime exponent over 1000?
 - **Correct Answer:** 1279
 - 2203
@@ -14629,7 +14545,7 @@
 ### Q: What is the first Studio Album to be released on the Internet with a "Pay-What-You-Want" price?
 - **Correct Answer:** In Rainbows
 - The Help Album
-- Skrillex and Diplo Present Jack Ü
+- Skrillex and Diplo Present Jack ü
 - Blackstar
 
 
@@ -14678,7 +14594,7 @@
 ### Q: What is the French word for "hat"?
 - **Correct Answer:** Chapeau
 - Bonnet
--  Écharpe
+-  écharpe
 -  Casque
 
 
@@ -14722,13 +14638,6 @@
 - Duke of Cambridge
 - Her Majesty's Loyal Opposition
 - Manager of the Crown Estate
-
-
-### Q: What is the German word for "spoon"?
-- **Correct Answer:** Löffel
-- Gabel
-- Messer
-- Essstäbchen
 
 
 ### Q: What is the Gray Wolf's scientific name?
@@ -15138,7 +15047,7 @@
 
 
 ### Q: What is the name of "Team Fortress 2" update, in which it became Free-to-play?
-- **Correct Answer:** Über Update
+- **Correct Answer:** über Update
 - Pyromania Update
 - Mann-Conomy Update
 - Engineer Update
@@ -16600,13 +16509,6 @@
 - 67
 
 
-### Q: What is"The Sport of Kings"?
-- **Correct Answer:** Horse Racing
-- Chess
-- Jousting
-- Fencing
-
-
 ### Q: What island in the Canary Islands was the scene of one of the worst air disasters in history with the collision of two jumbo jets?
 - **Correct Answer:** Tenerife
 - Fuerteventura
@@ -16726,7 +16628,7 @@
 - Urals
 
 
-### Q: What musician made the song "Fuckin` Perfect" in 2010?
+### Q: What musician made the song "F**kin` Perfect" in 2010?
 - **Correct Answer:** P!nk
 - Mitis
 - Adam lambert
@@ -16922,13 +16824,6 @@
 - Larvesta
 
 
-### Q: What polymer is used to make CDs, safety goggles and riot shields?
-- **Correct Answer:** Polycarbonate
-- Rubber
-- Nylon
-- Bakelite
-
-
 ### Q: What port does HTTP run on?
 - **Correct Answer:** 80
 - 53
@@ -16992,18 +16887,18 @@
 - Ciconiiformes
 
 
+### Q: What shape does sin(x) or cos(x) make on a graph?
+- **Correct Answer:** Waves
+- A Parabola
+- A Straight Line
+- Zig-Zags
+
+
 ### Q: What snowy mob was added in Minecraft 1.10?
 - **Correct Answer:** Polar bears
 - Eskimos
 - Penguins
 - Walking TNT
-
-
-### Q: What song is played during the ending credits of Guitar Hero: World Tour?
-- **Correct Answer:** Dream Theater - Pull Me Under
-- King Crimson - 21st Century Schizoid Man
-- Dragonforce - Through The Fire & The Flames
-- Lynyrd Skynyrd - Free Bird
 
 
 ### Q: What song on ScHoolboy Q's album Black Face LP featured Kanye West?
@@ -17359,7 +17254,7 @@
 ### Q: What was Genghis Khan's real name?
 - **Correct Answer:** Temüjin
 - Möngke
-- Ögedei
+- ögedei
 - Temür
 
 
@@ -17797,13 +17692,6 @@
 - Monkey Business
 
 
-### Q: What was the last message of the Dolphins in "The Hitchhiker's Guide to the Galaxy"?
-- **Correct Answer:** "So long, and thanks for all the fish."
-- "The answer is 42."
-- "Land of the brave."
-- "Goodbye cruel world!"
-
-
 ### Q: What was the main currency in Club Penguin?
 - **Correct Answer:** Coins
 - Stamps
@@ -17963,13 +17851,6 @@
 - World of Warcraft
 - Meridian 59
 - Guild Wars
-
-
-### Q: What was the name of the first Robin in the Batman comics?
-- **Correct Answer:** Dick Grayson
-- Bruce Wayne
-- Jason Todd
-- Tim Drake
 
 
 ### Q: What was the name of the game created by Masahiro Sakurai and Satoru Iwata that would eventually evolve into "Super Smash Bros."?
@@ -18231,6 +18112,13 @@
 - Coconut cream pie
 
 
+### Q: What was the third country to have a McDonald's restaurant?
+- **Correct Answer:** Costa Rica
+- Japan
+- France
+- Australia
+
+
 ### Q: What was the title of ABBA`s first UK hit single?
 - **Correct Answer:** Waterloo
 - Mamma Mia
@@ -18292,13 +18180,6 @@
 - Peace
 - Ancient
 - Chakra
-
-
-### Q: What was the world's first handheld game device?
-- **Correct Answer:** Mattel Auto Race
-- Game Boy
-- Microvision
-- Game & Watch
 
 
 ### Q: What was the world's first video game?
@@ -18880,11 +18761,11 @@
 - 1799
 
 
-### Q: When did the last episode of "Futurama" air?
+### Q: When did the last episode of "Futurama" air before returning in 2023?
 - **Correct Answer:** September 4, 2013
 - December 25, 2010
 - March 28, 1999
-- On Going
+- November 4, 2021
 
 
 ### Q: When did the online streaming service "Mixer" launch?
@@ -19230,13 +19111,6 @@
 - 1865
 
 
-### Q: When was the game "Roblox" released?
-- **Correct Answer:** 2006
-- 2003
-- 2002
-- 2007
-
-
 ### Q: When was the game 'Portal 2' released?
 - **Correct Answer:** 2011
 - 2014
@@ -19244,11 +19118,11 @@
 - 2007
 
 
-### Q: When was the Garfield comic first published?
-- **Correct Answer:** 1978
-- 1982
-- 1973
-- 1988
+### Q: When was the game "Roblox" released?
+- **Correct Answer:** 2006
+- 2003
+- 2002
+- 2007
 
 
 ### Q: When was the Grand Patriotic War in the USSR concluded?
@@ -19550,6 +19424,13 @@
 - London, England
 
 
+### Q: Which 'Family Guy' character got his own spin-off show in 2009?
+- **Correct Answer:** Cleveland Brown
+- Glenn Quagmire
+- Joe Swanson
+- The Greased-up Deaf Guy
+
+
 ### Q: Which "Call Of Duty: Zombies" map introduced the "Staffs Of The Ancients"?
 - **Correct Answer:** Origins
 - Shangri-La
@@ -19583,13 +19464,6 @@
 - Slinky Dog
 - Hamm
 - Rex
-
-
-### Q: Which 'Family Guy' character got his own spin-off show in 2009?
-- **Correct Answer:** Cleveland Brown
-- Glenn Quagmire
-- Joe Swanson
-- The Greased-up Deaf Guy
 
 
 ### Q: Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?
@@ -19632,6 +19506,13 @@
 - Chuck Norris
 - Steven Seagal
 - Scott Adkins
+
+
+### Q: Which actor auditioned for the role of Luke Skywalker?
+- **Correct Answer:** Kurt Russell
+- Christopher Lambert
+- Laurence Fishburne
+- James Remar
 
 
 ### Q: Which actor from The Young Ones also played Lord Flashheart in one episode of Blackadder II?
@@ -19956,18 +19837,18 @@
 - Flosstradamus
 
 
-### Q: Which artist's studio was known as 'The Factory'?
-- **Correct Answer:** Andy Warhol
-- Roy Lichtenstein
-- David Hockney
-- Peter Blake
-
-
 ### Q: Which artist's style was to use small different colored dots to create a picture?
 - **Correct Answer:** Georges Seurat
 - Paul Cézanne
 - Vincent Van Gogh
 - Henri Rousseau
+
+
+### Q: Which artist's studio was known as 'The Factory'?
+- **Correct Answer:** Andy Warhol
+- Roy Lichtenstein
+- David Hockney
+- Peter Blake
 
 
 ### Q: Which Audi does not use Haldex based all wheel drive system?
@@ -20327,6 +20208,13 @@
 - Molybdenum
 
 
+### Q: Which chemical element, number 11 in the Periodic table, has the symbol Na?
+- **Correct Answer:** Sodium
+- Carbon
+- Lead
+- Nitrogen
+
+
 ### Q: Which church's interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?
 - **Correct Answer:** St. Peter's Basilica
 - Catania Cathedral
@@ -20437,13 +20325,6 @@
 - Capcom
 - Blizzard Entertainment
 - Nintendo
-
-
-### Q: Which company did Gabe Newell work at before founding Valve Corporation?
-- **Correct Answer:** Microsoft
-- Apple
-- Google
-- Yahoo
 
 
 ### Q: Which company did the animation for Peter Gabriel's Video Sledgehammer (1986)?
@@ -20586,13 +20467,6 @@
 - Lithuania
 
 
-### Q: Which country has hosted the 2018 FIFA World Cup?
-- **Correct Answer:** Russia
-- Germany
-- United States
-- Saudi Arabia
-
-
 ### Q: Which country has the abbreviation "CH"?
 - **Correct Answer:** Switzerland
 - China
@@ -20626,6 +20500,27 @@
 - Somalia
 - China
 - United Kingdom
+
+
+### Q: Which country hosted the 2018 FIFA World Cup?
+- **Correct Answer:** Russia
+- Germany
+- United States
+- Saudi Arabia
+
+
+### Q: Which country hosted the 2020 Summer Olympics?
+- **Correct Answer:** Japan
+- China
+- Australia
+- Germany
+
+
+### Q: Which country hosted the 2022 FIFA World Cup?
+- **Correct Answer:** Qatar
+- USA
+- Japan
+- Switzerland
 
 
 ### Q: Which country inside the United Kingdom does NOT appear on its flag, the Union Jack?
@@ -20710,20 +20605,6 @@
 - Turkmenistan
 - Belarus
 - Tajikistan
-
-
-### Q: Which country will host the 2020 Summer Olympics?
-- **Correct Answer:** Japan
-- China
-- Australia
-- Germany
-
-
-### Q: Which country will host the 2022 FIFA World Cup?
-- **Correct Answer:** Qatar
-- USA
-- Japan
-- Switzerland
 
 
 ### Q: Which country, not including Japan, has the most people of japanese decent?
@@ -20964,7 +20845,7 @@
 - Mason Williams
 
 
-### Q: Which famous rapper is featured in Jack Ü (Skrillex and Diplo)'s 2015 single called "Febreze"?
+### Q: Which famous rapper is featured in Jack ü (Skrillex and Diplo)'s 2015 single called "Febreze"?
 - **Correct Answer:** 2 Chainz
 - Kendrick Lamar
 - Future
@@ -21074,13 +20955,6 @@
 - Daniil Kvyat
 - Jolyon Palmer
 - Rio Haryanto
-
-
-### Q: Which Formula One driver was nicknamed 'The Professor'?
-- **Correct Answer:** Alain Prost
-- Ayrton Senna
-- Niki Lauda
-- Emerson Fittipaldi
 
 
 ### Q: Which franchise does the creature "Slowpoke" originate from?
@@ -21265,6 +21139,13 @@
 - Athena
 
 
+### Q: Which Greek god was the god of the Sun?
+- **Correct Answer:** Helios
+- Zeus
+- Hades
+- Poseidon
+
+
 ### Q: Which greek god/goddess tossed a golden apple with the words "for the fairest" into the middle of the feast of the gods?
 - **Correct Answer:** Eris
 - Hades
@@ -21277,13 +21158,6 @@
 - Omega
 - Alpha
 - Sigma
-
-
-### Q: Which greek mathematician ran through the streets of Syracuse naked while shouting "Eureka" after discovering the principle of displacement?
-- **Correct Answer:** Archimedes
-- Euclid
-- Homer
-- Eratosthenes
 
 
 ### Q: Which group performs the song "Crash into Me"?
@@ -21564,13 +21438,6 @@
 - Louis XIII
 - Louis XV
 - Louis XVI
-
-
-### Q: Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?
-- **Correct Answer:** "A rainy Lithuanian / Is dancing as an Indian"
-- "Fly away on, my zephyr / I feel it more than ever"
-- "And I liked the dimple in your chin / Your pale blue eyes"
-- "You used to be so warm and affectionate...but now you're quick to get into your regret"
 
 
 ### Q: Which M83 album is the song "Midnight City" featured in?
@@ -21867,13 +21734,6 @@
 - Half-life and Counter Strike
 
 
-### Q: Which of following is rude and dishonorable by Klingon standards?
-- **Correct Answer:** Taking his D'k tahg
-- Insulting and laughing at him at the dinner table
-- Reaching over and taking his meal
-- Punching him and taking his ship station position
-
-
 ### Q: Which of his six wives was Henry VIII married to the longest?
 - **Correct Answer:** Catherine of Aragon
 - Anne Boleyn
@@ -21970,13 +21830,6 @@
 - Shalmaneser V
 - Esharhaddon
 - Ashur-nasir-pal II
-
-
-### Q: Which of the following authors was not born in England? 
-- **Correct Answer:** Arthur Conan Doyle
-- Graham Greene
-- H G Wells
-- Arthur C Clarke
 
 
 ### Q: Which of the following Autobot names in Michael Bay's movies was NOT a name for a Transformer in the original 1980's cartoon?
@@ -22252,13 +22105,6 @@
 - Gauss
 
 
-### Q: Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?
-- **Correct Answer:** Dave
-- John
-- Will
-- Carl
-
-
 ### Q: Which of the following films was Don Bluth both the writer, director, and producer for?
 - **Correct Answer:** All Dogs Go To Heaven
 - Titan A.E.
@@ -22500,7 +22346,7 @@
 ### Q: Which of the following is NOT a quote from the 1942 film Casablanca? 
 - **Correct Answer:** "Frankly, my dear, I don't give a damn."
 - "Here's lookin' at you, kid."
--"Of all the gin joints, in all the towns, in all the world, she walks into mine…"
+- "Of all the gin joints, in all the towns, in all the world, she walks into mine…"
 - "Round up the usual suspects."
 
 
@@ -22854,18 +22700,18 @@
 - David Beckham
 
 
-### Q: Which of the following Pokemon Types was present in the original games, Red and Blue?
-- **Correct Answer:** Ice
-- Steel
-- Dark
-- Fairy
-
-
 ### Q: Which of the following Pokémon games released first?
 - **Correct Answer:** Pokémon Crystal
 - Pokémon Platinum
 - Pokémon FireRed
 - Pokémon Black
+
+
+### Q: Which of the following Pokemon Types was present in the original games, Red and Blue?
+- **Correct Answer:** Ice
+- Steel
+- Dark
+- Fairy
 
 
 ### Q: Which of the following presidents is not on Mount Rushmore?
@@ -22882,13 +22728,6 @@
 - Franklin Roosevelt
 
 
-### Q: Which of the following rings from the DC Comics' "Lantern Corps" are classified as Parasitic?
-- **Correct Answer:** Indigo (Compassion)
-- Green (Willpower)
-- White (Life)
-- Yellow (Fear)
-
-
 ### Q: Which of the following snipers has the highest amount of confirmed kills?
 - **Correct Answer:** Simo Häyhä
 - Chris Kyle
@@ -22901,6 +22740,13 @@
 - I Guess That's Why They Call It The Blues
 - Your Song
 - Island Girl
+
+
+### Q: Which of the following songs was not originally released by Sir Elton John? 
+- **Correct Answer:** You'll Be In My Heart
+- Crocodile Rock
+- Candle in the Wind
+- I Don't Wanna Go On With You Like That
 
 
 ### Q: Which of the following spacecraft never touched the moon?
@@ -23146,13 +22992,6 @@
 - Tiësto
 - Slushii
 - Dash Berlin
-
-
-### Q: Which of these artists do NOT originate from France?
-- **Correct Answer:** The Chemical Brothers
-- Air
-- Justice
-- Daft Punk
 
 
 ### Q: Which of these artists has NOT been a member of dancehall group Major Lazer?
@@ -24709,13 +24548,6 @@
 - Gordie Howe
 
 
-### Q: Which Pokemon generation did the fan-named "Masuda Method" first appear in? 
-- **Correct Answer:** Diamond/Pearl
-- Ruby/Sapphire
-- Black/White
-- X/Y
-
-
 ### Q: Which Pokémon and it's evolutions were banned from appearing in a main role after the Episode 38 Incident?
 - **Correct Answer:** The Porygon Line
 - The Pikachu Line
@@ -24728,6 +24560,13 @@
 - Type:Null
 - Arceus
 - Silvally
+
+
+### Q: Which Pokemon generation did the fan-named "Masuda Method" first appear in? 
+- **Correct Answer:** Diamond/Pearl
+- Ruby/Sapphire
+- Black/White
+- X/Y
 
 
 ### Q: Which pop singer was brought in by SEGA to produce the music for "Sonic the Hedgehog 3"?
@@ -25017,7 +24856,7 @@
 - Joan Jett
 
 
-### Q: Which singer was featured in Jack Ü (Skrillex & Diplo)'s 2015 song 'Where Are Ü Now'?
+### Q: Which singer was featured in Jack ü (Skrillex & Diplo)'s 2015 song 'Where Are ü Now'?
 - **Correct Answer:** Justin Bieber
 - Selena Gomez
 - Ellie Goulding
@@ -25290,7 +25129,7 @@
 - The Bachelor
 
 
-### Q: Which time signature is commonly known as"Cut Time?"
+### Q: Which time signature is commonly known as "Cut Time?"
 - **Correct Answer:** 2/2
 - 4/4
 - 6/8
@@ -25850,7 +25689,7 @@
 - Odysseus
 
 
-### Q: Who in Pulp Fiction says "No, they got the metric system there, they wouldn't know what the fuck a Quarter Pounder is."
+### Q: Who in Pulp Fiction says "No, they got the metric system there, they wouldn't know what the f*** a Quarter Pounder is."
 - **Correct Answer:** Vincent Vega
 - Jules Winnfield
 - Jimmie Dimmick
@@ -25911,6 +25750,13 @@
 - Wolfgang Amadeus Mozart
 - Brian Eno
 - Sigur Ró;s
+
+
+### Q: Who is able to grab the survivors with his tongue in Left 4 Dead?
+- **Correct Answer:** Smoker
+- Jockey
+- Hunter
+- Boomer
 
 
 ### Q: Who is attributed credit for recording the epic poem The Odyssey?
@@ -26494,13 +26340,6 @@
 - Bono
 
 
-### Q: Who is the writer of the game "Half-Life"?
-- **Correct Answer:** Marc Laidlaw
-- Gabe Newell
-- Robin Walker
-- Chet Faliszek
-
-
 ### Q: Who is the youngest person to recieve a Nobel Prize?
 - **Correct Answer:** Malala Yousafzai
 - Lawrence Bragg
@@ -26746,6 +26585,13 @@
 - Air Supply
 
 
+### Q: Who published the 1998 video game Half-Life?
+- **Correct Answer:** Sierra On-Line
+- Valve
+- Blizzard
+- EA
+
+
 ### Q: Who recorded the 1975 album 'Captain Fantastic and the Brown Dirt Cowboy'?
 - **Correct Answer:** Elton John
 - John Denver
@@ -26926,6 +26772,13 @@
 - The Bee Gees
 - Heatwave
 - Kool & the Gang
+
+
+### Q: Who was a voice actor for the English dubbing of HOWL'S MOVING CASTLE (2004)?
+- **Correct Answer:** Christian Bale
+- Matt Damon
+- Joseph Gordon-Levitt
+- Willem Dafoe
 
 
 ### Q: Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?
@@ -27175,7 +27028,7 @@
 
 ### Q: Who was the main antagonist of Max Payne 3 (2012)?
 - **Correct Answer:** Victor Branco
-- Álvaro Neves
+- álvaro Neves
 - Armando Becker
 - Milo Rego
 
@@ -27206,6 +27059,13 @@
 - Theodore Roosevelt
 - George Washington
 - Abraham Lincoln
+
+
+### Q: Who was the original author of Frankenstein?
+- **Correct Answer:** Mary Shelley
+- Edgar Allan Poe
+- Bram Stoker
+- H. P. Lovecraft
 
 
 ### Q: Who was the original drummer for The Beatles?
@@ -27460,18 +27320,18 @@
 - Johnny Mandel
 
 
-### Q: Who wrote the novel "Moby-Dick"?
-- **Correct Answer:** Herman Melville
-- William Golding
-- William Shakespeare
-- J. R. R. Tolkien
-
-
 ### Q: Who wrote the novel 'Fear And Loathing In Las Vegas'?
 - **Correct Answer:** Hunter S. Thompson
 - F. Scott Fitzgerald
 - Henry Miller
 - William S. Burroughs
+
+
+### Q: Who wrote the novel "Moby-Dick"?
+- **Correct Answer:** Herman Melville
+- William Golding
+- William Shakespeare
+- J. R. R. Tolkien
 
 
 ### Q: Who wrote the play 'Angels in America'?
@@ -27486,13 +27346,6 @@
 - Michael Jackson
 - Cameo
 - Rick James
-
-
-### Q: Who wrote the song "You Know You Like It"?
-- **Correct Answer:** AlunaGeorge
-- DJ Snake
-- Steve Aoki
-- Major Lazer
 
 
 ### Q: Who wrote the young adult novel "The Fault in Our Stars"?
